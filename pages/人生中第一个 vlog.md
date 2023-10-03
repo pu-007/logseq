@@ -26,7 +26,19 @@
 	  logseq.order-list-type:: number
 	- 纵览全文
 	  logseq.order-list-type:: number
+- 沏茶
+  logseq.order-list-type:: number
+	- 取茶叶
+	  logseq.order-list-type:: number
+	- 放茶叶
+	  logseq.order-list-type:: number
+	- 倒水
+	  logseq.order-list-type:: number
+	- 转视角特写
+	  logseq.order-list-type:: number
 - 学习做作业过程
   logseq.order-list-type:: number
 	- 认真做作业,  延时摄影, 帮助自律
+	  logseq.order-list-type:: number
+	- 做完学习任务再录其他的
 	  logseq.order-list-type:: number
