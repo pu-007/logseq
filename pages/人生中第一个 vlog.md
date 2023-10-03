@@ -65,3 +65,11 @@
 	  logseq.order-list-type:: number
 	- 做完学习任务再录其他的
 	  logseq.order-list-type:: number
+- 阅读
+  logseq.order-list-type:: number
+	- 中景
+	  logseq.order-list-type:: number
+	- 第一人称
+	  logseq.order-list-type:: number
+	- 窗外空镜头
+	  logseq.order-list-type:: number
