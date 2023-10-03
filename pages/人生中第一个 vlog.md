@@ -66,6 +66,10 @@
 	  logseq.order-list-type:: number
 	- 做完学习任务再录其他的
 	  logseq.order-list-type:: number
+- 弹琴
+  logseq.order-list-type:: number
+	- 取琴
+	  logseq.order-list-type:: number
 - 阅读
   logseq.order-list-type:: number
   id:: 651c2e02-ed2a-4294-9556-81df0c6080de
