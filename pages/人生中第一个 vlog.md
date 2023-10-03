@@ -4,7 +4,7 @@
   |#书桌|((651b7cae-a876-4862-bdb0-c74868ab11e0))|#中景|||DONE|
   |#书桌|((651b7d51-34c9-424f-bca7-d3ece5c3aa4d))|#中景 #近景|||DONE|
   |#茶几 #客厅|((651b8146-e7b3-4259-88e4-bb1883060975))|#近景 #特写|||DONE|
-  |#客厅 #阳台 #书桌||#运动 #中景 #近景|||DONE|
+  |#客厅 #阳台 #书桌|- ((651b880b-527b-4d41-a532-bd3ee0560b77))|#运动 #中景 #近景|||DONE|
   |#书桌|((651b8106-e1c9-4700-8b39-aa3f9ac401ed))|#近景|||TODO|
 - 学习粽子的vlog教程
   id:: 651b7cae-a876-4862-bdb0-c74868ab11e0
@@ -45,6 +45,7 @@
 	  logseq.order-list-type:: number
 - 进入书桌
   logseq.order-list-type:: number
+  id:: 651b880b-527b-4d41-a532-bd3ee0560b77
 	- 从茶水起身
 	  logseq.order-list-type:: number
 	- 中景阳台
