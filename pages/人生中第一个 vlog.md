@@ -30,6 +30,8 @@
 - 沏茶
   logseq.order-list-type:: number
   id:: 651b8146-e7b3-4259-88e4-bb1883060975
+	- 空镜头: 客厅
+	  logseq.order-list-type:: number
 	- 取茶叶
 	  logseq.order-list-type:: number
 	- 放茶叶
