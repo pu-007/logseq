@@ -3,7 +3,7 @@
   |--|--|--|--|--|--|--|
   |#书桌|((651b7cae-a876-4862-bdb0-c74868ab11e0))|#中景|#侧斜拍|||DONE|
   |#书桌|((651b7d51-34c9-424f-bca7-d3ece5c3aa4d))|#中景 #近景|#侧斜拍|||DONE|
-  |||# 近景|#正斜拍|||TODO|
+  |#书桌|((651b8146-e7b3-4259-88e4-bb1883060975))|# 近景|#正斜拍|||TODO|
 - 学习粽子的vlog教程
   id:: 651b7cae-a876-4862-bdb0-c74868ab11e0
   logseq.order-list-type:: number
@@ -28,6 +28,7 @@
 	  logseq.order-list-type:: number
 - 沏茶
   logseq.order-list-type:: number
+  id:: 651b8146-e7b3-4259-88e4-bb1883060975
 	- 取茶叶
 	  logseq.order-list-type:: number
 	- 放茶叶
@@ -38,6 +39,7 @@
 	  logseq.order-list-type:: number
 - 学习做作业过程
   logseq.order-list-type:: number
+  id:: 651b8106-e1c9-4700-8b39-aa3f9ac401ed
 	- 认真做作业,  延时摄影, 帮助自律
 	  logseq.order-list-type:: number
 	- 做完学习任务再录其他的
