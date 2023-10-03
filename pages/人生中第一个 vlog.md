@@ -30,13 +30,15 @@
 - 沏茶
   logseq.order-list-type:: number
   id:: 651b8146-e7b3-4259-88e4-bb1883060975
-	- 空镜头: 客厅
+	- 走入房间
 	  logseq.order-list-type:: number
 	- 取茶叶
 	  logseq.order-list-type:: number
 	- 放茶叶
 	  logseq.order-list-type:: number
-	- 倒水
+	- 天上倒水
+	  logseq.order-list-type:: number
+	- 延时摄影
 	  logseq.order-list-type:: number
 	- 转视角特写
 	  logseq.order-list-type:: number
