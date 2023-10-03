@@ -15,4 +15,13 @@
 - 撰写vlog脚本
   logseq.order-list-type:: number
   id:: 651b7d51-34c9-424f-bca7-d3ece5c3aa4d
-	- logseq.order-list-type:: number
+	- 过渡视频
+	  logseq.order-list-type:: number
+	- 切换窗口
+	  logseq.order-list-type:: number
+	- 拉近镜头
+	  logseq.order-list-type:: number
+	- 拍摄键盘打字过程
+	  logseq.order-list-type:: number
+	- 纵览全文
+	  logseq.order-list-type:: number
