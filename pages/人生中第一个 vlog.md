@@ -70,6 +70,8 @@
   logseq.order-list-type:: number
 	- 取琴
 	  logseq.order-list-type:: number
+	- 第一人称
+	  logseq.order-list-type:: number
 - 阅读
   logseq.order-list-type:: number
   id:: 651c2e02-ed2a-4294-9556-81df0c6080de
