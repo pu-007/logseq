@@ -414,4 +414,5 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy年MM月dd日"
  :publishing/all-pages-public? true
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :ui/show-brackets? false}
