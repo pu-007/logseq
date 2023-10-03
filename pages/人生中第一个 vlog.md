@@ -36,7 +36,7 @@
 	  logseq.order-list-type:: number
 	- 放茶叶
 	  logseq.order-list-type:: number
-	- 天上倒水
+	- 悬空倒水
 	  logseq.order-list-type:: number
 	- 延时摄影
 	  logseq.order-list-type:: number
