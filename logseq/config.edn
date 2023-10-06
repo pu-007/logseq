@@ -415,4 +415,5 @@
  :journal/page-title-format "yyyy年MM月dd日"
  :publishing/all-pages-public? true
  :editor/preferred-pasting-file? true
- :ui/show-brackets? false}
+ :ui/show-brackets? false
+ :editor/logical-outdenting? true}
