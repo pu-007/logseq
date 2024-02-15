@@ -1,4 +1,4 @@
-- #TOCH #物理 必刷题九
+- #TOCK #物理 必刷题九
   :LOGBOOK:
   CLOCK: [2024-02-15 Thu 10:58:27]
   :END:
