@@ -1,6 +1,10 @@
-- Journal Template
-  template:: Journal Template
-  template-including-parent:: true
-	- [[学习看板]]
-	- test
-	- test
+- Daily Template
+  template:: Daily
+  template-including-parent:: false
+	- ## Morning Pages
+		- **A line about today**
+		- **3 Things I'm Grateful For**
+		- **2 [[affirmations]] **
+	- -----
+	- ## Daily Log
+		-
