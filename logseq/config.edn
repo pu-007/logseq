@@ -248,13 +248,13 @@
  ;;  ["md" "Markdown"]
  ;;  ]
  :commands [
-  ["yw" "TODO #语文 "]
-  ["sx" "TODO #数学 "]
-  ["yy" "TODO #英语 "]
-  ["wl" "TODO #物理 "]
-  ["hx" "TODO #化学 "]
-  ["sw" "TODO #生物 "]
-  ["wz" "TODO #文综 "]
+  ["yw" "TODO #语文"]
+  ["sx" "TODO #数学"]
+  ["yy" "TODO #英语"]
+  ["wl" "TODO #物理"]
+  ["hx" "TODO #化学"]
+  ["sw" "TODO #生物"]
+  ["wz" "TODO #文综"]
 ]
 
  ;; Enable collapsing blocks with titles but no children.
