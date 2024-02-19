@@ -12,5 +12,8 @@
 		- #化学
 		- #生物
 		- #文综
-- Kanban Matrix
-  template::
+- Kanban Matrix 
+  template:: eisenhower-matrix
+	- [[TODO]]
+	- [[DECIDE]]
+	-
