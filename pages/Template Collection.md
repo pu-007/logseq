@@ -12,7 +12,7 @@
 		- #化学
 		- #生物
 		- #文综
-- Kanban Matrix 
+- Eisenhower Matrix
   template:: eisenhower-matrix
   template-including-parent:: false
 	- #.v-eisenhower-matrix
