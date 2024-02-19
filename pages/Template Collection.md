@@ -1,7 +1,7 @@
 - Daily Template
   template:: Daily
   template-including-parent:: false
-	- [[学习看板]]
+	- [[Kanban]]
 	- [[3 vital things I decide to do]] #.ol
 	- [[3 good things I have done]] #.ol
 - Eisenhower Matrix
