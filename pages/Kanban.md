@@ -1,6 +1,7 @@
 - #.v-eisenhower-matrix
 	- [[IU]]
-		- {{query [[IU]]}}
+		- ```
+		  ```
 	- [[IX]]
 	- [[UX]]
 	- [[XX]]
