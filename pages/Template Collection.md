@@ -4,12 +4,12 @@
 	- [[Kanban]]
 	- [[3 vital things I decide to do]] #.ol
 	- [[3 good things I have done]] #.ol
-- Eisenhower Matrix
-  template:: eisenhower-matrix
+- Four-part Matrix
+  template:: Four-part Matrix
   template-including-parent:: false
 	- #.v-eisenhower-matrix
-		- [[TODO]]
-		- [[DECIDE]]
+		- [[p1]]
+		- [[]]
 		- [[test]]
 		- [[test]]
 	-
