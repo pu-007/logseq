@@ -2,7 +2,7 @@
   template:: Daily
   template-including-parent:: false
 	- [[学习看板]]
-	- [[今日重要的三件事]]
+	- [[3 vital things I decide to do]]
 	- [[3 good things I have done]]
 	- [[学业]]
 		- #语文
