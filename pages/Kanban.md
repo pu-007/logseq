@@ -1,15 +1,13 @@
 - #.v-eisenhower-matrix
 	- [[IU]]
+	  collapsed:: true
 		- ```
 		  title: Example Commands
 		  - pages
 		      - *
-		  - pageproperties
-		      - pagetype, "fluids"
 		  - namespace
-		      - physics 
+		      - 数学
 		  ```
-		-
 	- [[IX]]
 	- [[UX]]
 	- [[XX]]
