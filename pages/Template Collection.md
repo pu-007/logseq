@@ -15,7 +15,9 @@
 - Kanban Matrix 
   template:: eisenhower-matrix
   template-including-parent:: false
-	-
-	- [[TODO]]
-	- [[DECIDE]]
+	- #.v-eisenhower-matrix
+		- [[TODO]]
+		- [[DECIDE]]
+		- [[test]]
+		- [[test]]
 	-
