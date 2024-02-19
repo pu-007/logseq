@@ -10,4 +10,5 @@
       - *
   - tasks
   	- TODO
+      - or DOING
   ```
