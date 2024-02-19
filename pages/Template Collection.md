@@ -4,14 +4,6 @@
 	- [[学习看板]]
 	- [[3 vital things I decide to do]] #.ol
 	- [[3 good things I have done]] #.ol
-	- [[学业]]
-		- #语文
-		- #数学
-		- #英语
-		- #物理
-		- #化学
-		- #生物
-		- #文综
 - Eisenhower Matrix
   template:: eisenhower-matrix
   template-including-parent:: false
