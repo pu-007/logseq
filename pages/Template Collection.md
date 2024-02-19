@@ -3,7 +3,7 @@
   template-including-parent:: false
 	- [[学习看板]]
 	- [[今日重要的三件事]]
-	- [[今日做的好的三件事]
+	- [[3 good things I have done]]
 	- [[学业]]
 		- #语文
 		- #数学
