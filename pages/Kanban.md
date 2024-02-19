@@ -3,18 +3,20 @@
 	  collapsed:: true
 		- ```yaml
 		  title: Important & Urgent
+		  - blocks
+		  	- *
 		  - blocktags
 		  	- IU
 		  ```
 			- #+BEGIN_QUERY
-			  ;; WARNING: Must have 'pages' command or 'blocks' Command
-			  ;;          otherwise the query cannot get any information
-			  ;;          Inserting a blocks command for you
-			  
 			  ;; WARNING: yaml has no leading hypen eg '- pages'
 			  {
 			  :title [:b "Important & Urgent"]
+			  :query [:find (pull ?block [*])
 			  :where
+			  [?block :block/content ?blockcontent]
+			  [?block :block/page ?page]
+			  [?page :block/name ?pagename]
 			  ]
 			  }
 			  #+END_QUERY
