@@ -1,1 +1,7 @@
--
+- categories
+	- [[TODO]]
+	- [[TOCK]]
+	- [[TOCR]]
+	- [[TORV]]
+	- [[TOAK]]
+	- [[DONE]]
