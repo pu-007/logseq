@@ -12,3 +12,39 @@
 		- #化学
 		- #生物
 		- #文综
+- #.v-eisenhower-matrix
+  template:: eisenhower-matrix
+      - [[TODO]]
+          -
+          -
+          -
+      - [[DECIDE]]
+          -
+          -
+          -
+      - [[DELEGATE]]
+          -
+          -
+          -
+      - [[ELIMINATE]]
+          -
+          -
+          -
+- #.v-eisenhower-matrix
+  template:: eisenhower-matrix
+      - [[TODO]]
+          -
+          -
+          -
+      - [[DECIDE]]
+          -
+          -
+          -
+      - [[DELEGATE]]
+          -
+          -
+          -
+      - [[ELIMINATE]]
+          -
+          -
+          -
