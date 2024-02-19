@@ -6,7 +6,7 @@
 		  - blocks
 		  	- *
 		  - blocktags
-		  	- IU
+		  	- TOCK
 		  ```
 			- #+BEGIN_QUERY
 			  ;; WARNING: yaml has no leading hypen eg '- pages'
