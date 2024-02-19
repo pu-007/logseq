@@ -14,6 +14,8 @@
 		- #文综
 - Kanban Matrix 
   template:: eisenhower-matrix
+  template-including-parent:: false
+	-
 	- [[TODO]]
 	- [[DECIDE]]
 	-
