@@ -2,4 +2,7 @@
   template:: Daily
   template-including-parent:: false
 	- [[学习看板]]
-	- **A line about today**
+	- [[今日重要的三件事]]
+	- [[学业]]
+		- #语文
+		-
