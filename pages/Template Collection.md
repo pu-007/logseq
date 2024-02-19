@@ -2,8 +2,8 @@
   template:: Daily
   template-including-parent:: false
 	- [[学习看板]]
-	- [[3 vital things I decide to do]]
-	- [[3 good things I have done]]
+	- [[3 vital things I decide to do]] #.ol
+	- [[3 good things I have done]] #.ol
 	- [[学业]]
 		- #语文
 		- #数学
@@ -13,3 +13,4 @@
 		- #生物
 		- #文综
 - Kanban Matrix
+  template::
