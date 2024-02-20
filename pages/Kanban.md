@@ -1,7 +1,7 @@
 - categories
 	- [[TODO]]
-	- [[TOCK]]
-	- [[TOCR]]
+	- {{query [[TOCK]]}}
+	- {{query [[TOCR]]}}
 	- [[TORV]]
 	- [[TOAK]]
 	- [[DONE]]
