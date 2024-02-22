@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -247,7 +247,23 @@
  ;;  ["js" "Javascript"]
  ;;  ["md" "Markdown"]
  ;;  ]
- :commands []
+ :commands [
+  ["yw" "TODO #语文"]
+  ["sx" "TODO #数学"]
+  ["yy" "TODO #英语"]
+  ["wl" "TODO #物理"]
+  ["hx" "TODO #化学"]
+  ["sw" "TODO #生物"]
+  ["wz" "TODO #文综"]
+  ["cgp" "#card-group"]
+  ["ayw" "deck:: #语文/"]
+  ["asx" "deck:: #数学/"]
+  ["ayy" "deck:: #英语/"]
+  ["awl" "deck:: #物理/"]
+  ["ahx" "deck:: #化学/"]
+  ["asw" "deck:: #生物/"]
+  ["awz" "deck:: #文综/"]
+]
 
  ;; Enable collapsing blocks with titles but no children.
  ;; By default, only blocks with children can be collapsed.
@@ -292,7 +308,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["Template Collection" "学习看板"]
+ :favorites ["kanban" "Template Collection" "学习看板"]
 
  ;; Set flashcards interval.
  ;; Expected value:
