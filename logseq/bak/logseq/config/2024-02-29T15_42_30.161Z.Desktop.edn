@@ -247,7 +247,34 @@
  ;;  ["js" "Javascript"]
  ;;  ["md" "Markdown"]
  ;;  ]
- :commands []
+ :commands [
+  ["yw" "TODO #语文"]
+  ["sx" "TODO #数学"]
+  ["yy" "TODO #英语"]
+  ["wl" "TODO #物理"]
+  ["hx" "TODO #化学"]
+  ["sw" "TODO #生物"]
+  ["wz" "TODO #文综"]
+
+  ["cgp" "#card-group"]
+  ["cd" "#card"]
+
+  ["ayw" "deck:: #语文/ #card-group"]
+  ["asx" "deck:: #数学/ #card-group"]
+  ["ayy" "deck:: #英语/ #card-group"]
+  ["awl" "deck:: #物理/ #card-group"]
+  ["ahx" "deck:: #化学/ #card-group"]
+  ["asw" "deck:: #生物/ #card-group"]
+  ["awz" "deck:: #文综/ #card-group"]
+
+  ["tayw" "TODO deck:: #语文/错题/ #card-group"]
+  ["tasx" "TODO deck:: #数学/错题/ #card-group"]
+  ["tayy" "TODO deck:: #英语/错题/ #card-group"]
+  ["tawl" "TODO deck:: #物理/错题/ #card-group"]
+  ["tahx" "TODO deck:: #化学/错题/ #card-group"]
+  ["tasw" "TODO deck:: #生物/错题/ #card-group"]
+  ["tawz" "TODO deck:: #文综/错题/ #card-group"]
+]
 
  ;; Enable collapsing blocks with titles but no children.
  ;; By default, only blocks with children can be collapsed.
@@ -292,7 +319,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["Template Collection" "学习看板"]
+ :favorites ["kanban" "Template Collection" "学习看板"]
 
  ;; Set flashcards interval.
  ;; Expected value:
