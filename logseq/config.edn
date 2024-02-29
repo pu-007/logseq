@@ -266,6 +266,8 @@
   ["ahx" "#card-group \n deck:: #化学/"]
   ["asw" "#card-group \n deck:: #生物/"]
   ["awz" "#card-group \n deck:: #文综/"]
+
+  ["chemical" [[:editor/input "$$\ce{}$$" {:backward-pos 4}]]]
 ]
 
  ;; Enable collapsing blocks with titles but no children.
