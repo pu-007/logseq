@@ -248,13 +248,26 @@
  ;;  ["md" "Markdown"]
  ;;  ]
  :commands [
-  ["yw" "TODO #语文 "]
-  ["sx" "TODO #数学 "]
-  ["yy" "TODO #英语 "]
-  ["wl" "TODO #物理 "]
-  ["hx" "TODO #化学 "]
-  ["sw" "TODO #生物 "]
-  ["wz" "TODO #文综 "]
+  ["yw" "TODO #语文"]
+  ["sx" "TODO #数学"]
+  ["yy" "TODO #英语"]
+  ["wl" "TODO #物理"]
+  ["hx" "TODO #化学"]
+  ["sw" "TODO #生物"]
+  ["wz" "TODO #文综"]
+
+  ["cgp" "#card-group"]
+  ["cd" "#card"]
+
+  ["ayw" "#card-group \n deck:: #语文/"]
+  ["asx" "#card-group \n deck:: #数学/"]
+  ["ayy" "#card-group \n deck:: #英语/"]
+  ["awl" "#card-group \n deck:: #物理/"]
+  ["ahx" "#card-group \n deck:: #化学/"]
+  ["asw" "#card-group \n deck:: #生物/"]
+  ["awz" "#card-group \n deck:: #文综/"]
+
+  ["chemical" [[:editor/input "xxx" {:backward-pos 4}]]]
 ]
 
  ;; Enable collapsing blocks with titles but no children.

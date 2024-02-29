@@ -255,14 +255,18 @@
   ["hx" "TODO #化学"]
   ["sw" "TODO #生物"]
   ["wz" "TODO #文综"]
+
   ["cgp" "#card-group"]
-  ["ayw" "deck:: #语文/"]
-  ["asx" "deck:: #数学/"]
-  ["ayy" "deck:: #英语/"]
-  ["awl" "deck:: #物理/"]
-  ["ahx" "deck:: #化学/"]
-  ["asw" "deck:: #生物/"]
-  ["awz" "deck:: #文综/"]
+  ["cd" "#card"]
+
+  ["ayw" "#card-group \n deck:: #语文/"]
+  ["asx" "#card-group \n deck:: #数学/"]
+  ["ayy" "#card-group \n deck:: #英语/"]
+  ["awl" "#card-group \n deck:: #物理/"]
+  ["ahx" "#card-group \n deck:: #化学/"]
+  ["asw" "#card-group \n deck:: #生物/"]
+  ["awz" "#card-group \n deck:: #文综/"]
+  ["python" [[:editor/input "```python\n\n```" {:backward-pos 4}]]]
 ]
 
  ;; Enable collapsing blocks with titles but no children.
