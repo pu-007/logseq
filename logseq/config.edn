@@ -271,6 +271,7 @@
 
   ["delta" "\\delta"]
   ["Delta" "\\Delta"]
+  ["vector" [[:editor/input "\\overrightarrow{}" {:backward-pos 1}]]]
 ]
 
  ;; Enable collapsing blocks with titles but no children.

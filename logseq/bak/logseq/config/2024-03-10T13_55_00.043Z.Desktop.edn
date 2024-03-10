@@ -267,7 +267,12 @@
   ["asw" "#card-group \n deck:: #生物/"]
   ["awz" "#card-group \n deck:: #文综/"]
 
-  ["chemical" [[:editor/input "$$\\ce{}$$" {:backward-pos 3}]]]
+  ["chemical" [[:editor/input "$\\ce{}$" {:backward-pos 2}]]]
+
+  ["delta" "\\delta"]
+  ["Delta" "\\Delta"]
+  ["vector" [[:editor/input "\\overrightarrow{}" {:backward-pos 1}]]]
+  ["vector" "\\Delta"]
 ]
 
  ;; Enable collapsing blocks with titles but no children.
