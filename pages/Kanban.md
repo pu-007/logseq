@@ -1,3 +1,4 @@
+- #学业 #技术
 - categories
 	- [[TODO]]
 	- {{query [[TOCK]]}}
