@@ -446,4 +446,5 @@
  :publishing/all-pages-public? true
  :editor/preferred-pasting-file? true
  :ui/show-brackets? true
- :editor/logical-outdenting? true}
+ :editor/logical-outdenting? true
+ :graph/settings {:journal? false}}
