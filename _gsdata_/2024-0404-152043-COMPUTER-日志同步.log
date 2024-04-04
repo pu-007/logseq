@@ -1,0 +1,6 @@
+2024-04-04 15:20:45: == 同步开始由 User Command
+2024-04-04 15:20:46: Start only 1 threads, limited by tasks to run
+2024-04-04 15:20:46: 新建复制 'http://192.168.31.204:5244/dav/Storage/shared/Logseq/journals/2024_04_04.md' -> 'C:/Users/Administrator/Documents/Logseq/journals/2024_04_04.md' (124)
+2024-04-04 15:20:46: 保持文件状态 C:/Users/Administrator/Documents/Logseq/_gsdata_/_file_state_v4._gs
+2024-04-04 15:20:46: 保持文件状态 http://192.168.31.204:5244/dav/Storage/shared/Logseq/_gsdata_/_file_state_v4._gs
+2024-04-04 15:20:46: == 同步完成. 历时: 00:00:01, 速度: 0.00/s, 完成: 1, 错误: 0

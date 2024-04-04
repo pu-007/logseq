@@ -1,0 +1,17 @@
+2024-04-04 15:11:59: == 同步开始由 User Command
+2024-04-04 15:11:59: Start only 2 threads, limited by tasks to run
+2024-04-04 15:11:59: ConnectCloned connected to file:///~Administrator/Documents/Logseq
+2024-04-04 15:11:59: ConnectCloned connected to file:///~Administrator/Documents/Logseq
+2024-04-04 15:11:59: GsConnectAndSetRoot1 connected to http://192.168.31.204:5244/dav/Ali/Logseq
+2024-04-04 15:11:59: GsConnectAndSetRoot1 connected to http://192.168.31.204:5244/dav/Ali/Logseq
+2024-04-04 15:12:00: Waiting for 0+4(120) sec on verb CopyFileSimple: CloseUpload: [requesting Basic auth]: 
+2024-04-04 15:12:00: Waiting for 0+4(120) sec on verb CopyFileSimple: CloseUpload: [requesting Basic auth]: 
+2024-04-04 15:12:04: Recovered the connection, continuing operations
+2024-04-04 15:12:04: Recovered the connection, continuing operations
+2024-04-04 15:12:05: 新建复制 'C:/Users/Administrator/Documents/Logseq/logseq/.recycle/pages_化学___总结___必修一.md' -> 'http://192.168.31.204:5244/dav/Ali/Logseq/logseq/.recycle/pages_化学___总结___必修一.md' (133)
+- 错误: Cannot rename temp file to destination file: Server says: Internal Server Error (status code 500); And cannot delete: Not Found by server
+2024-04-04 15:12:05: 新建复制 'C:/Users/Administrator/Documents/Logseq/assets/7d2d3b2e8b95bb2d5ec3bb248eadaea7.png' -> 'http://192.168.31.204:5244/dav/Ali/Logseq/assets/7d2d3b2e8b95bb2d5ec3bb248eadaea7.png' (2,715)
+- 错误: Cannot rename temp file to destination file: Server says: Internal Server Error (status code 500); And cannot delete: Not Found by server
+2024-04-04 15:12:05: 保持文件状态 C:/Users/Administrator/Documents/Logseq/_gsdata_/_file_state_v4._gs
+2024-04-04 15:12:05: 保持文件状态 http://192.168.31.204:5244/dav/Ali/Logseq/_gsdata_/_file_state_v4._gs
+2024-04-04 15:12:06: == 同步完成. 历时: 00:00:07, 速度: 474.00/s, 完成: 0, 错误: 2
