@@ -278,6 +278,10 @@
 
   ["delta" "\\delta"]
   ["Delta" "\\Delta"]
+  ["pi" "\\pi"]
+  ["Pi" "\\Pi"]
+  ["omega" "\\omega"]
+  ["Omega" "\\Omega"]
   ["vector" [[:editor/input "\\overrightarrow{}" {:backward-pos 1}]]]
 ]
 
