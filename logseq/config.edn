@@ -274,6 +274,8 @@
 
   ["chemical" [[:editor/input "$\\ce{}$" {:backward-pos 2}]]]
 
+  ["deck" "deck:: #"]
+
   ["delta" "\\delta"]
   ["Delta" "\\Delta"]
   ["vector" [[:editor/input "\\overrightarrow{}" {:backward-pos 1}]]]
