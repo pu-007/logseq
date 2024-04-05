@@ -282,6 +282,8 @@
   ["Pi" "\\Pi"]
   ["omega" "\\omega"]
   ["Omega" "\\Omega"]
+  ["theta" "\\theta"]
+  ["Theta" "\\Theta"]
   ["vector" [[:editor/input "\\overrightarrow{}" {:backward-pos 1}]]]
 ]
 
