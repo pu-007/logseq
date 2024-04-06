@@ -2,3 +2,4 @@
   template:: Daily
   template-including-parent:: false
 	- #每日习题
+	- #DONELIST
