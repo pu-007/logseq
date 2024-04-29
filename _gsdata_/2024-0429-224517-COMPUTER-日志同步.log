@@ -1,0 +1,17 @@
+2024-04-29 22:45:18: -- 分析开始 Analyze And Sync All
+2024-04-29 22:45:18: 左侧: 正在读取文件状态 C:/Users/Administrator/Documents/Logseq/_gsdata_/_file_state_v4._gs
+2024-04-29 22:45:18: 右侧: 正在读取文件状态 http://192.168.31.88:5244/dav/Storage/shared/Logseq/_gsdata_/_file_state_v4._gs
+2024-04-29 22:45:20: 右侧: 同步需要磁盘 http://192.168.31.88:5244 上的空间应为 0.00, 而可用空间大小未知
+2024-04-29 22:45:20: 变更：2， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 1011
+2024-04-29 22:45:20: Right to Left: Copy File: 2 
+2024-04-29 22:45:20: == 同步开始由 Analyze And Sync All
+2024-04-29 22:45:20: Start only 2 threads, limited by tasks to run
+2024-04-29 22:45:20: ConnectCloned connected to file:///~Administrator/Documents/Logseq
+2024-04-29 22:45:20: ConnectCloned connected to file:///~Administrator/Documents/Logseq
+2024-04-29 22:45:20: GsConnectAndSetRoot1 connected to http://192.168.31.88:5244/dav/Storage/shared/Logseq
+2024-04-29 22:45:20: GsConnectAndSetRoot1 connected to http://192.168.31.88:5244/dav/Storage/shared/Logseq
+2024-04-29 22:45:20: 新建复制 'http://192.168.31.88:5244/dav/Storage/shared/Logseq/logseq/bak/journals/2024_04_16/2024-04-28T10_27_05.866Z.android.md' -> 'C:/Users/Administrator/Documents/Logseq/logseq/bak/journals/2024_04_16/2024-04-28T10_27_05.866Z.android.md' (112)
+2024-04-29 22:45:20: 新建复制 'http://192.168.31.88:5244/dav/Storage/shared/Logseq/logseq/bak/journals/2024_04_21/2024-04-28T10_27_05.951Z.android.md' -> 'C:/Users/Administrator/Documents/Logseq/logseq/bak/journals/2024_04_21/2024-04-28T10_27_05.951Z.android.md' (70)
+2024-04-29 22:45:20: 保持文件状态 C:/Users/Administrator/Documents/Logseq/_gsdata_/_file_state_v4._gs
+2024-04-29 22:45:20: 保持文件状态 http://192.168.31.88:5244/dav/Storage/shared/Logseq/_gsdata_/_file_state_v4._gs
+2024-04-29 22:45:20: == 同步完成. 历时: 00:00:03, 速度: 336.00/s, 完成: 2, 错误: 0
