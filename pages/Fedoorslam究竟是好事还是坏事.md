@@ -1,30 +1,22 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxrtNqRWa6ddmicRGgaQc25Vkw43Zf2G6OSTD63xZpCXNDviaU4wLczqLkmqkFicWnibzyzKKzEDVGa7lQ/0?wx_fmt=jpeg)
 
-#  Fe | doorslam究竟是好事还是坏事？
+# Fe | doorslam究竟是好事还是坏事？
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-Doorslam是指infj对他人的突然关门行为，doorslam一般发生在与infj曾关系较好的人身上，然后突然单方面infj毫无预警的对这段关系一刀两断。  
+Doorslam是指infj对他人的突然关门行为，doorslam一般发生在与infj曾关系较好的人身上，然后突然单方面infj毫无预警的对这段关系一刀两断。
 
 doorslam之后，infj彻彻底底的把他从世界切割出去，好像他从来没有出现过一样。对于这种行为，infj不会感到不适，而是若无其事，甚至爽快。这意味着infj彻彻底底对他关闭了Fe。
 
@@ -108,18 +100,14 @@ infj能不伤害自己、不委屈自己，才能不伤害他人。
 
 不伤己才能不伤他人，折磨自己就是在折磨跟你有关系的人。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -127,21 +115,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -278,4 +254,3 @@ infj清醒岛来自
 来看风景了啊来自湖南
 
 我对朋友也是这样一种状态，要是我自己做的引导让他们误入歧途怎么办
-

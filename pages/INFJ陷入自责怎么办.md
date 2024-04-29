@@ -1,24 +1,16 @@
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/DZCdtia4bJxoSssbBPgPnG0l4V1Q3RpFKo0ZOayIia5r8mxP3ulox4NZZgBef5rHYRJOsEXNXzTBjYe28UaZokng/0?wx_fmt=jpeg)
 
-#  INFJ陷入自责怎么办？
+# INFJ陷入自责怎么办？
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
@@ -384,7 +376,7 @@ INFJ会因为自己的一点小缺点，而否认全部的自己。
 
 只有本我觉得超我可信赖，才会爱超我，听从他的管教。
 
-统一起战线，只有建立起自己的爱。  内心有力量，才会对待外部世界的挫折越挫越勇。
+统一起战线，只有建立起自己的爱。 内心有力量，才会对待外部世界的挫折越挫越勇。
 
 **七、随他去吧**
 
@@ -422,20 +414,14 @@ INFJ会因为自己的一点小缺点，而否认全部的自己。
 
 最终摆脱自我指责。
 
-  
-
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -443,21 +429,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -545,4 +519,3 @@ Shyj来自上海
 Glowing in silence来自湖南
 
 最近的状态不算好也不算差吧，偶尔会出现一些小问题，在努力改善中
-

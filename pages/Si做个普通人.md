@@ -1,24 +1,16 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxotMkpAqRo8aJOGNF1NlV2BMqXGFb3F9VTYYopgTftdvjTBImVs1L3ooJ9Trp8o30XIQvC3VYL0Pg/0?wx_fmt=jpeg)
 
-#  Si | 做个普通人
+# Si | 做个普通人
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
@@ -51,8 +43,6 @@ infj发展Se不痛苦了，不仅是由于内在冲突减少了，更是因为�
 接受这些琐事，会发现麻烦又琐碎的生活并不麻烦，只是一种质朴的平凡，把自己活成千万人的缩影，难道不够有意义吗。
 
 二、但是又很安心
-
-  
 
 即使已经做了1000次同样的饭，下一次还是能感受到如出一辙的幸福。
 
@@ -92,18 +82,14 @@ Infj喜欢在Ni和Se之间两级横跳，Ni把自己绷得很紧，绝不出格�
 
 即使这辈子没有什么成就，尽力就可以了。接受自己庸庸碌碌的可能，无愧于心就行。作为一个普通人挣扎过一生，总是会经历大大小小的失败，这多么正常？承认自己能力有限，然后继续前行吧。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -111,21 +97,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -180,7 +154,7 @@ W.来自贵州
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-｡ì _ í｡为来自湖南
+｡ì \_ í｡为来自湖南
 
 太懂我们的苦了，在这里总是被你治愈到，给人希望给人光明！
 
@@ -201,4 +175,3 @@ W.来自贵州
 逆羽越洋来自河南
 
 有被治愈到
-

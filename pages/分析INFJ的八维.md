@@ -1,30 +1,20 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxrjxp94CicPWvTlG3gR90hwOmicctFzicjKvxR1tHkLUibwa6ZWjR5pVObibukGnh5hfDlYaicWalJkyCAA/0?wx_fmt=jpeg)
 
-#  分析 | INFJ的八维
+# 分析 | INFJ的八维
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
-
-  
 
 八维顺序：Ni Fe Ti Se Ne Fi Te Si
 
@@ -99,18 +89,14 @@ Si（内倾感觉）是一种以过去的经验积累为导向的行为模式，
 
 不建议infj发展第八功能，遭受巨大创伤被迫激发魔鬼功能时也要有意识的远离，Si往往给infj带来过去的痛苦、创伤和黑暗，比如沉溺于过去的旧人和旧事走不出来。错误的沉迷si会造成Ni的摧毁，导致巨大的内部分裂感，混乱的价值观和极不稳定的自尊，摧毁infj的自信和对未来的方向感。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -118,21 +104,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -275,4 +249,3 @@ pp来自湖北
 乔荷来自云南
 
 岛，“Ni-Ti容易陷入13功能的loop”，这个，13功能的loop是什么意思啊？刚开始接触这些，百度也没查到清楚的概念界定[苦涩]
-

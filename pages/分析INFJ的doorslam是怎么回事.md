@@ -1,30 +1,20 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxq7NfIPs4vC5QHbs3iawlYZ1deU15q6u8AVz4ePV3WHk4o34RW0o4D7BdZF8X5aFK2ibiabh5hOhnvPw/0?wx_fmt=jpeg)
 
-#  分析|INFJ的doorslam是怎么回事
+# 分析|INFJ的doorslam是怎么回事
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
-
-  
 
 首先，能有doorslam荣幸的人，一般都是进入核心圈，或者在核心圈附近徘徊的人，infj已经给了你很大权限和宽容。
 
@@ -62,18 +52,14 @@ Doorslam是一种仪式感，也是帮助infj脱身的方法。关上这扇门�
 
 实际上，doorslam对infj来说是一件好事，代表着他们日渐成熟的自我，代表着他们在爱着别人的同时也学会了保护自己。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -81,21 +67,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -163,4 +137,3 @@ cinterest来自江西
 7F来自江西
 
 写得像极了很多年前的我
-

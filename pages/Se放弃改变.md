@@ -1,24 +1,16 @@
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/DZCdtia4bJxqBsO9h26R5ZRM1Tibl2VOYWtueK9DCLF2UP3C5J8opLMLWQDicd83hMfP44Y837IGSKQrb5xV85wVA/0?wx_fmt=jpeg)
 
-#  Se | 放弃改变
+# Se | 放弃改变
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
@@ -346,18 +338,14 @@ INFJ是活在未来的人，他们时刻都想改变自己，变成更好的自�
 
 每分每秒都应接不暇。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -365,21 +353,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -405,7 +381,7 @@ Minlie来自江西
 他逃避所有亲密关系，因为他觉得自己不够好：固执，冷漠，虚伪，自以为是……然而这些缺点，只有他自己能看见。在外人看来，他就是一朵虚无缥缈的云，你看不见背后是否有狂风暴雨。外表洁白柔软，实则不然。你永远也无法了解这背后的黑暗，因为云在天上，永远随风而逝。
 好讨厌这样的自己。这句话已经在脑海里、在心里浮现过无数次。 虽然知道这样不好，但是无法停止这样的想法。 唯一能缓解的，还是改变，还是朝理想的自己前进。
 或许有一天，某个人或者某件事，可以让他释然，可以让他不再焦虑，不再眼巴巴地盯着未来的那个自己，可以让他停下来给现在的自己一个轻柔的拥抱。 但愿吧。
-(❁´◡`❁)*✲ﾟ*
+(❁´◡`❁)_✲ﾟ_
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
@@ -465,7 +441,7 @@ finney来自中国香港
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-FHL_来自浙江
+FHL\_来自浙江
 
 正处于 不知道该怎么调整很多不健康人际关系的阶段里 一直没学会如何表达自己内心的需求 太难了哈哈
 
@@ -570,4 +546,3 @@ infj清醒岛来自
 Sking-Chan来自广东
 
 被戳中了，呜呜呜，这个问题最近一直困扰我。
-

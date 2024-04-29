@@ -1,30 +1,20 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxqoMVlia4eJQvkzTuUPDw3AJUBVxZ308ez98oVmOibiaxTtKjM8jC7Tgy4RNz2WzGHGxMroicnocdgvww/0?wx_fmt=jpeg)
 
-#  分析| infj度过中阶需要想明白的一个道理
+# 分析| infj度过中阶需要想明白的一个道理
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
-
-  
 
 这一篇会写得比较直白，建议没到中阶内耗阶段时不要看。
 
@@ -100,18 +90,14 @@ Infj最大的问题就是看太透了，觉得活着没意义，游戏没开始�
 
 从观影人变成剧中人，那个时候你会发现自己缺失了上帝视角，会害怕、慌不择路，但是一切都很有趣和新奇。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -119,21 +105,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -294,7 +268,7 @@ infj清醒岛来自
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-_Sarah_来自广东
+*Sarah*来自广东
 
 想到了一句话，既能朝九晚五，又能浪迹天涯。
 
@@ -316,4 +290,3 @@ noone来自
 morning~来自辽宁
 
 曾一度觉得吃饭睡觉没有意义，日常生活没有感觉。日常活着像个空壳 直到遇见了istp，浓浓的烟火气
-

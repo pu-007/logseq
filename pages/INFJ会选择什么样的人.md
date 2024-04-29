@@ -1,33 +1,25 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxqiayibzpB4uzN9icmBSqj65fiahn0YrdsJXEtRkNUrlCHYxb1c8uiaUeV2wbShlzPUeicplDCmgQYiaiaiaqQ/0?wx_fmt=jpeg)
 
-#  INFJ会选择什么样的人
+# INFJ会选择什么样的人
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-**  
-**
+\*\*  
+\*\*
 
-**一、温柔（Fe）**  
+**一、温柔（Fe）**
 
 笑起来眉眼弯弯柔柔的，总能给予反馈。某一瞬间，infj处于尴尬和无所适从的境地时，Fe的贴心和亲和力就像从天而降的神明将人拉出沼泽。
 
@@ -103,18 +95,14 @@ infj不会选择任何一个，只会在接触中发展自己，等到infj发展
 
 Ni主导的人格走的是一条淬炼灵魂的道路，只有一直在路上、不断发展人格、自我超越、努力成为更好的人、不断反省自己、不断突破自己的同类才会成为他们的同伴，不然都会被留在身后的。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -122,21 +110,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -184,7 +160,7 @@ esfj和enfj吗，是fe主导型的，没发展劣势功能ti的时候，聊天�
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-ヾ₯੭*⁾⁾来自江西
+ヾ₯੭\*⁾⁾来自江西
 
 现身说法，intp男(中高阶plus)+infj女(本人中阶plus)真的天造地设的绝配 [Shy]
 他真的百分之九十九点九九九戳中我的理想型，是那种发自内心自信的人，智商高，有格局，温柔强大，谦逊低调，不卑不亢，开放包容，既有仰望星空的崇高理想，又有脚踏实地的实干精神
@@ -313,4 +289,3 @@ Shane来自辽宁
 辣条来自广西
 
 前任是esfj，我发现esfx总是吸引我，但是我跟同为infj的聊不来，之前我遇到一个Ni很高的infj，可能因为知道对方固执地活在自己不现实的小世界里，让我无法接受
-

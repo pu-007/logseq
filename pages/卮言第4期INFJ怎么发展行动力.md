@@ -1,24 +1,16 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxpP5gUGaSxraOeibvsrt5ILd1mLicibtXNdQKzQWZAdltYs8SIwg0sdvYG9PXNsRSib9MOsfldTYvVepQ/0?wx_fmt=jpeg)
 
-#  卮言第4 期 | INFJ怎么发展行动力
+# 卮言第4 期 | INFJ怎么发展行动力
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
@@ -64,18 +56,14 @@ Infj做独立完成的事会很快。如果中间掺杂了他人，就会由于�
 
 建议infj发展Se，Se可以和Ni优势互补。少一点分析（Ti），提高对自己（Fi）的信心，其实不需要计划好一切才行动的，少在意别人的看法（Fe）,多靠Ni+Se，相信Ni的大方向指引，在当下落实，收获即时反馈，另外制定灵活的计划表（不要太si)。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -83,21 +71,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -144,4 +120,3 @@ Shane来自辽宁
 Nicole🎈来自上海
 
 妈呀！太有共鸣了！每个点都戳到心巴上！终于理解了自己 对自己的行为背后的认知打通了！
-

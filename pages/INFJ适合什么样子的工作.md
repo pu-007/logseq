@@ -1,30 +1,20 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxrJUTwKWxOrmjmTiaeGOnyh0ialQkkwic4Ehj8KaTYPkWQfYsd56yXZh8ZGNFJVHSnKibzvMiaiaqO2hLZA/0?wx_fmt=jpeg)
 
-#  INFJ适合什么样子的工作？
+# INFJ适合什么样子的工作？
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
-
-  
 
 **Ni**
 
@@ -79,8 +69,6 @@ __ _ _
 
 承担起你的责任，让这个世界更美好。Infj的气质镇定、安静和严肃，会成为很好的领导。可以挖掘下属潜力。兼顾每个下属的需求，不压榨别人，以身作则，善于团结鼓舞人心。
 
-  
-
 **具体职业建议：**
 
 **一、权威专家类：** (Ti发展好的可以去做，对世界和人类有益，独立实现自身价值）
@@ -94,8 +82,6 @@ __ _ _
 经济学家
 
 等等——任何领域深度专家
-
-  
 
 **二、社会支持类：** （对社会有益）
 
@@ -175,8 +161,6 @@ __ _ _
 
 理发师
 
-  
-
 **五、清静养生类：**
 
 前台接待人员
@@ -189,18 +173,14 @@ __ _ _
 
 园丁
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -208,21 +188,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -441,4 +409,3 @@ jrkn来自北京
 infj清醒岛来自
 
 infj的Ni-Ti做分析和决策也是够的，而且infj的fe亲人，跟客户做沟通很合适
-

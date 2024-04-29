@@ -1,24 +1,16 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxrtNqRWa6ddmicRGgaQc25VkYalknico9ibViaEOjmoQ1KMpkewicZ1G9VdaclR0zyjiatGC04HHEa4o3Wg/0?wx_fmt=jpeg)
 
-#  推荐给infj的时间管理法
+# 推荐给infj的时间管理法
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
@@ -30,19 +22,13 @@ __ _ _
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/DZCdtia4bJxrtNqRWa6ddmicRGgaQc25VkOSw0wUspX8LaJG7epSic5dXu41zeA9sw2kmTBHTXqgziay0TNxAj8wnQ/640?wx_fmt=png)
 
-  
-
 重要指的是能带来价值、实现人生重要目标、非常有挑战性、或者一旦搞砸了会有重大后果的事。它跟你的人生目标的得失息息相关，所以说重要。
 
 紧急指的是事件的急迫程度，在时间层面上迫近。
 
 按处理顺序划分：先做既紧急又重要的，接着做重要但不紧急的，再做紧急但不重要的，最后才是既不紧急也不重要的。1234这个顺序。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_png/DZCdtia4bJxrtNqRWa6ddmicRGgaQc25Vkojhc2U8nHBlqA3LklV1WXH8DYbQwjUZGMvHS5UYT3G27rLOJdxxyjw/640?wx_fmt=png)
-
-  
 
 **一、重要且紧急（短期+长期价值）**
 
@@ -175,8 +161,6 @@ Se转起来这种感觉，做最紧急的事可以帮助infj发展Se。
 
 我每次都是有艰巨的短期目标任务时把它拿出来用。
 
-  
-
 **七、结语**
 
 时间管理的目标是度过幸福的一生，所以要如实的面对自己，而不是欺骗自己，或者将时间管理视为对自己的打压。
@@ -187,18 +171,14 @@ Se转起来这种感觉，做最紧急的事可以帮助infj发展Se。
 
 再后来，管理时间与快乐成为了一回事，我发现人只有在不那么自由的前提下才能实现最大的自由，不敢说达到了“随心所欲而不逾矩”，不过感受到了超我和本我在不断融合，是一种很舒心的、胜券在握、掌握了人生节奏的快乐感觉。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -206,21 +186,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -289,4 +257,3 @@ Chrishaw来自上海
 氧化铝。来自河北
 
 终于更新啦！这篇给我的建议很大！岛岛也要注意身体哦！
-

@@ -1,30 +1,20 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxqybDfNVttaGJusTfyrqORtX4GgMlG8SW5jk20hvicb5tj0KUp9GnId3ZMWHChVEHC3qrutOABTXNw/0?wx_fmt=jpeg)
 
-#  INFJ如何处理过去的伤痛
+# INFJ如何处理过去的伤痛
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
-
-  
 
 Si位于infj的第八功能，体现为infj几乎想不起来过去发生的事，即使记得，想起来的也基本上是不好的回忆。Infj会本能的使用这个人格暗中伤害自己和他人，很难正确使用此功能。
 
@@ -70,18 +60,14 @@ Si位于infj的第八功能，体现为infj几乎想不起来过去发生的事�
 
 一旦我们决心不再接受痛苦的折磨，不再背负不该背负的重担，向自己承诺一定要给自己无条件的幸福，那么就没有什么可以阻止你去获得健康而完美的心灵状态。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-快来留言  
+快来留言
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -89,21 +75,9 @@ Si位于infj的第八功能，体现为infj几乎想不起来过去发生的事�
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -154,4 +128,3 @@ infj清醒岛来自
 昱来自广东
 
 谢谢岛，近几个月逐渐有一种作为旁观者观察自己的行为、思维方式和情绪的体验，可以清醒着看自己在伤痛中如何反应，也在自省中获得继续向前走的力量
-

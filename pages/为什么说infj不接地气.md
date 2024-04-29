@@ -1,33 +1,25 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxrEPS9rLnVuZU66JvxTLl4UajsLZCAp8TdBhm7qa4dUJAxeTJIThyGBnoYdDmHH7Jqssn2O5fhFVw/0?wx_fmt=jpeg)
 
-#  为什么说infj不接地气？
+# 为什么说infj不接地气？
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-**  
-**
+\*\*  
+\*\*
 
-**低Se的可能表现**  
+**低Se的可能表现**
 
 **1\. 环境识别能力不强**
 
@@ -143,8 +135,8 @@ Se是infj的劣势功能，也就是说infj最容易在这方面自卑，比如�
 
 **2.忘性大**
 
-**  
-**
+\*\*  
+\*\*
 
 出门会忘带东西，不丢东西全靠反复检查。不特意关注就会丢东西，比如总是丢笔，索性一次多买一些。
 
@@ -188,18 +180,14 @@ Se是infj的劣势功能，也就是说infj最容易在这方面自卑，比如�
 
 由于感知能力太差，infj会把照顾身体当做跟自己无关的事。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -207,21 +195,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -406,4 +382,3 @@ Melon来自广东
 infj清醒岛来自
 
 感谢供图侠
-

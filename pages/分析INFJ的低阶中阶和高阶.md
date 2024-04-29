@@ -1,30 +1,20 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxpI2J4DAvFT7fwsrmT7dOjl5UgJvKQ8AvnEiaBBmSGEibxQpNsOVicxu90AeCgAxMDliam461LhVEeib8Q/0?wx_fmt=jpeg)
 
-#  分析| INFJ的低阶中阶和高阶
+# 分析| INFJ的低阶中阶和高阶
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
-
-  
 
 **#低阶infj Ni+Fe**
 
@@ -86,14 +76,12 @@ Se削弱了过度使用的Ni，整个人不再焦虑。
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -101,21 +89,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -349,4 +325,3 @@ Kate来自浙江
 infj清醒岛来自
 
 自责不太对劲，高阶应该是一个和解的状态
-

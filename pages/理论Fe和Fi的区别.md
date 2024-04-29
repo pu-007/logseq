@@ -1,30 +1,22 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxosEejpA3OYops0az0tESFXLHicnCOmbjuHhZRDoMiaZl8dgCToL69RGwcFiaWCOMia4ib5OAWoFXWmS4Q/0?wx_fmt=jpeg)
 
-#  理论| Fe和Fi的区别
+# 理论| Fe和Fi的区别
 
-淮然  
+淮然
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-这里描写的主要是Fe和Fi主导型人格的表现，作为F为辅助功能的人群来说，一般不会发展得如此强大，还是受主导功能影响更多。  
+这里描写的主要是Fe和Fi主导型人格的表现，作为F为辅助功能的人群来说，一般不会发展得如此强大，还是受主导功能影响更多。
 
 **Fe**
 
@@ -60,18 +52,14 @@ Fi的不健康表达方向是以自我为中心，冷漠缺乏同情心，只专
 
 参考资料：《心理类型》《天资差异》
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -79,21 +67,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -150,4 +126,3 @@ infj清醒岛来自
 仡.来自上海
 
 岛岛，我的八维Fe最高，Fi只比Ni 低一点点，这样的双高会不会冲突呀？
-

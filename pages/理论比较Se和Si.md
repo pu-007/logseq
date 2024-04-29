@@ -1,30 +1,20 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxrRj7OudIdtr1IZRchfCr3ibZMWNDCyRhJpHv7sBicSVNWI0w7ZI2Sp9VTc3YDLsGEuKpiblDI4od22Q/0?wx_fmt=jpeg)
 
-#  理论| 比较Se和Si
+# 理论| 比较Se和Si
 
-[[INFJ清醒岛]]  
+[[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
-
-  
 
 Se和Si看起来很像，表现出来却完全不同。Se代表了一种外倾感觉（Extraverted
 sensation），S——感觉本就依赖于外在客体，那么朝向外倾的感觉可以说是最外倾的外倾功能。而Si（Introverted
@@ -54,18 +44,14 @@ Ni主导者所受的压抑往往宣泄在外倾感觉方向，这种感觉的特
 
 本文资料整理于：《心理类型》《天资差异》《我没疯，我只是与你不同》
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -73,21 +59,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -170,4 +144,3 @@ infj清醒岛来自
 咩来自河北
 
 谢谢作者的文字，给了我内心很多力量｡◕‿◕｡
-

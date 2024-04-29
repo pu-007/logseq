@@ -1,30 +1,22 @@
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/DZCdtia4bJxoWjzDzUhg22T1FLxicyMHYibxHVficYU5icyxeG5X60Wf8Y9dJs7Yqpw0Qqicf1Ga9ibeZF4pQQWbqq1tQ/0?wx_fmt=jpeg)
 
-#  为什么说INFJ要学会说出自己的需求
+# 为什么说INFJ要学会说出自己的需求
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-** 一、  **  
+** 一、 **
 
 Fe过强的人，容易只在意他人的需求，而忽视自己的需求。
 
@@ -282,18 +274,14 @@ Fe过强的人，容易只在意他人的需求，而忽视自己的需求。
 
 世界会帮助你，给你让路。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -301,21 +289,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -339,7 +315,7 @@ infj清醒岛
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-琦 ^_^来自广东
+琦 ^\_^来自广东
 
 “努力让能力配得上野心就好了。”
 请问怎么判断“配得上”呢？尤其是在自我价值感低的时候，好像一切都觉得配不上。尽管只是休息放松最后也都“算了”_(:::з」∠)_
@@ -407,7 +383,7 @@ Mina🔮来自上海
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-FHL_来自浙江
+FHL\_来自浙江
 
 认认真真一个字一个字看完了，急迫的想问岛岛，我觉得我自己不敢表达自己的需求，是害怕在他人面前去袒露真实的自己，因为觉得真实的自己是不可能被喜欢的。所以就害怕袒露自己，也害怕提出自己需求。
 但是真的让我很苦恼，这是因为自卑吗？我又该怎么解决这样的心理呢？
@@ -420,7 +396,7 @@ infj清醒岛来自
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-JiaYi - HO^-^*来自广东
+JiaYi - HO^-^\*来自广东
 
 关于说出需求这点，要不要分环境？比如面对朋友，家人，陌生人，同事，领导之类的。还是面对所有人都可以说出自己的需求？如果明知道说出自己的需求，会给别人带来麻烦，或者带来心理上的压力，又或者会让别人对你有意见或者损害你形象之类的，那还要不要说？比如一些拒绝别人的事，一些自己不愿意的事，又或者想点自己喜欢的菜之类的，让人觉得自己不懂事，太自私，怎么办？然后别人在你后面说你怎么办？[苦涩]
 
@@ -468,4 +444,3 @@ Fe过强的人，容易只在意他人的需求，而忽视自己的需求。 �
 大块噫气来自广东
 
 很想知道作者的Fe、Ti、Se分别是在多少岁基本发展完善的
-

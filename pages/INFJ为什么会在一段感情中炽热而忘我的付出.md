@@ -1,30 +1,22 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxog9tbUun60ibcghEfjjd1LvGo79PhjXHE28VQvCqQPvxZw7duKAfwum3xvl5Y6r2S5wMg8Z5wrufg/0?wx_fmt=jpeg)
 
-#  INFJ为什么会在一段感情中炽热而忘我的付出
+# INFJ为什么会在一段感情中炽热而忘我的付出
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-**一、**  
+**一、**
 
 Ni+Fe的配置是冷漠的共情，最深情的无情配置。
 
@@ -167,8 +159,6 @@ Ni不惜代价所寻求的自由是什么呢？
 
 而“骑士之爱”就是拉康所倡导的，如何对待身体内部的邻人的方法。去爱身体内部的与“自我”相异的欲望，从而构成自身。
 
-  
-
 **八、**
 
 所以我们可以看到，infj所信奉的这种爱，已经不仅仅是爱情了，而是只存在于想象中的东西。他所爱的不仅是一种相似性，更是一种相异性。
@@ -184,26 +174,20 @@ Se轴得到了运转）
 
 所以infj的理想之爱注定只能存在于理想之中。
 
-  
-
 参考资料：
 
 1.卢毅：拉康对康德伦理学的批判与超越——一种基督教进路的解读
 
 2.李峰：“爱邻如己”是可能的吗？——拉康视角下的邻人问题与主体的伦理
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -211,21 +195,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -255,7 +227,7 @@ Abraxas来自云南
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-｡ì _ í｡为来自湖南
+｡ì \_ í｡为来自湖南
 
 ‘’冷漠的共情，最深情的无情配置‘’ 你真是太懂infj了
 
@@ -365,4 +337,3 @@ INFJ确实在别人没向你口头上表达爱意的时候可以很好的玩下�
 无住生心来自江苏
 
 标题让我有些疑惑，特别是看完全文之后……
-

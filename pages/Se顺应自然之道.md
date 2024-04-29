@@ -1,22 +1,14 @@
-#  Se | 顺应自然之道
+# Se | 顺应自然之道
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
@@ -59,18 +51,14 @@ Si不能解决fe的问题，但Se可以，人既然从属于自然，那不如�
 让Ni-Se轴运转起来，将Ni的创造力落实在当下实现，不去错过每一个灵光一现，Ni-
 Se完全的转起来的状态，就是做事非常自然随意，不再自律，不再自我勉强，日理万机但是心不累。做事参差灵活但是乱中有序。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -78,21 +66,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -110,7 +86,6 @@ infj清醒岛
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-Pumpkin_来自重庆
+Pumpkin\_来自重庆
 
 说到我心坎里去了
-

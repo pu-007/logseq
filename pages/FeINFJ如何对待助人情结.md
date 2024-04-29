@@ -1,30 +1,22 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxrialxj7YuPSwwPzo1PQWNALSkEu9KsYIOVGl5XtTJKhOTiavU4vXG1f9xZqbJEVxsvxrSmQFsibRpnA/0?wx_fmt=jpeg)
 
-#  Fe | INFJ如何对待助人情结
+# Fe | INFJ如何对待助人情结
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-**一、**  
+**一、**
 
 infj的Fe很强，它带来好处当然也会带来问题。
 
@@ -130,8 +122,6 @@ Fi一直被压，会记住自己的委屈，Fe换不来回报，就压不住Fi,�
 
 知识点需要掰开了揉碎了讲清楚，明明白白的放到学生面前，才能使人信服老师的能力。
 
-  
-
 **五、**
 
 又没主见又无知，可能造就极致的恶。
@@ -170,18 +160,14 @@ Fe喜欢融入环境，促进环境和谐，但此时的环境是极恶的怎么
 
 Fe发展好了是恩泽众生，但你能力不够，就如稚子抱金过市，只会被反噬。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -189,21 +175,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -221,7 +195,7 @@ infj清醒岛
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-｡ì _ í｡为来自湖南
+｡ì \_ í｡为来自湖南
 
 这个公众号真的是infj福音 困扰多年的问题总是能被她精准分析出来 这个同情心过剩被老好人没存在感的痛点
 确实是因为没有个性和气场的支撑，之前我一直不愿意面对承认，对世界有很多不切实际的美好幻想。不够强而同情心过剩是一场个人灾难。善良在当今时代是一种非常奢侈的东西，真理往往只在大炮的射程之内产生作用
@@ -292,4 +266,3 @@ gop来自江西
 宋洋来自北京
 
 很好，爱了
-

@@ -1,30 +1,22 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxrvx6vM8fgqkKgpzZNU4lQEdglx0ot2ufO7oOOVeOkgqSDphnVKKNnTCMwlHL5vjpKypDF1yFI5Dg/0?wx_fmt=jpeg)
 
-#  Se | 一个应对拖延症的好办法
+# Se | 一个应对拖延症的好办法
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-**一、**  
+**一、**
 
 infj的拖延症来源于Ni，Ni指向未来，喜欢越过当下向后面看。
 
@@ -121,8 +113,6 @@ infj总是想，过去做错了，但我未来多努力就可以弥补了。
 
 越不好意思记的反而就越要记，坦诚面对自己对时间的使用。
 
-  
-
 **七、**
 
 日记法的目的是逼迫infj面对当下，直面当下，不逃避当下。
@@ -155,18 +145,14 @@ infj总是想，过去做错了，但我未来多努力就可以弥补了。
 
 新年快乐！
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -174,21 +160,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -401,7 +375,7 @@ Cu来自广东
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-｡ì _ í｡为来自湖南
+｡ì \_ í｡为来自湖南
 
 岛君新年快乐，回想下遇见你是2022最开心的事，希望2023与你一起继续干掉infj！
 
@@ -505,7 +479,7 @@ infj清醒岛来自
 
 小漪₍ᐢ..ᐢ₎来自北京
 
-新年快乐呀～^_^
+新年快乐呀～^\_^
 
 ![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4icoibBPppWkMrbLG1lB8KhWHaiaiabBib87BTTdVQC8Cyacg/64)
 
@@ -524,4 +498,3 @@ infj清醒岛来自
 infj清醒岛来自
 
 新年快乐[庆祝][庆祝]
-

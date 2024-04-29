@@ -1,30 +1,22 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxo8X5EGD3elXDW0TYCKCZdQKWS7t5gicyxlceFiaQd5PuB1y4nk7O8ZC7iakKAibibIGel74pzI61Hp2CQ/0?wx_fmt=jpeg)
 
-#  INFJ的“明日复明日”拖延成因
+# INFJ的“明日复明日”拖延成因
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-**一、**  
+**一、**
 
 Ni使infj认为自己未来会很自律。
 
@@ -151,8 +143,6 @@ Infj会用“我相信我会在明天自律”为借口来允许自己今天不�
 你越熬夜、越不运动、越不吃健康的食物、不坚持自我觉察。
 
 你的体力、精力就越差，越疲劳就越没有意志力，就越回不了头了，你以为你能跳出来，可你实在是太高估自己了。
-
-  
 
 **四、**
 
@@ -391,18 +381,14 @@ infj即使现在拖延，也会理直气壮的认为【未来的自己】是一�
 
 重要的是，每次完成一个任务，都要及时的鼓励和赞美自己！
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -410,21 +396,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -578,7 +552,7 @@ Nicole🎈来自浙江
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-勇敢的心*来自重庆
+勇敢的心\*来自重庆
 
 看哭了
 
@@ -596,7 +570,6 @@ Nicole🎈来自浙江
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-^_^来自黑龙江
+^\_^来自黑龙江
 
 岛岛的文章我反复读❤️
-

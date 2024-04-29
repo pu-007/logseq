@@ -1,30 +1,22 @@
 ![cover_image](http://mmbiz.qpic.cn/sz_mmbiz_jpg/DZCdtia4bJxpQNK1NDmibsZWyd2dWE2maiahX0o7EV6QHzZV7klTWWtNkS4ib6jhVtEbAqar6jbbO2OxFUjRibGwCUA/0?wx_fmt=jpeg)
 
-#  为什么说INFJ要重视0.01的努力
+# 为什么说INFJ要重视0.01的努力
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-**一、**  
+**一、**
 
 Infj常常因为Ni一眼望到底而畏难，索性就一点也不行动了，就像一个华美的宫殿蓝图，一看就知道建造要耗费多少工夫，干脆不开始。
 
@@ -228,18 +220,14 @@ Si第八位的infj很难直接发展出Si这种功能，infj一想到重复而�
 
 不管别人的目光，你唯一要做的是创造自己的、跟任何人都不一样的独一无二的人生。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -247,21 +235,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -375,13 +351,13 @@ infj清醒岛来自
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-肆邈_来自湖南
+肆邈\_来自湖南
 
 真的是这样 从小到大的考试都有种轻松高分的感觉，但是一到大型考试如中高考就会因为平常的不够努力而得不到好成绩[合十]
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-｡ì _ í｡为来自湖南
+｡ì \_ í｡为来自湖南
 
 岛君，很想听你分析一下最近大火的吴谢宇弑母案。 我觉得他的心路历程很让人震撼，洁癖母亲缺位父亲，
 他精神紧绷超级学霸完美主义空心病，这些偏执特质跟infj是不是有些接近？ 这是三联周刊的一篇报道，目前全网看到他家最全面的情况，整个家族信息都写进去了
@@ -448,4 +424,3 @@ Cu来自广东
 Ҩ来自安徽
 
 岛岛的每篇都写到我心窝里 醍醐灌顶 [流泪]
-

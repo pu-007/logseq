@@ -1,30 +1,20 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxpI2J4DAvFT7fwsrmT7dOjlacCIcXwCsQWNTF2avia20wcuDO5HHOZyBsD6ibCSUDENonpWXX2alEjA/0?wx_fmt=jpeg)
 
-#  卮言第5期| INFJ的童年是怎样的
+# 卮言第5期| INFJ的童年是怎样的
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
-
-  
 
 infj矛盾的性格往往来源于童年，父母的一方强势而权威、暴躁、焦虑、控制欲强。另一方可能无底线的溺爱满足infj的物质需求。也就是说infj的父母是有心理问题的，并且父母之间的感情不是很好，起码不是那种温馨有爱的家庭。有可能是传统冰冷而充满冲突的父权家庭。
 
@@ -48,18 +38,14 @@ infj矛盾的性格往往来源于童年，父母的一方强势而权威、暴�
 
 Infj在长大以后对真爱的执着追求也源于此，再加上他们对道德的要求，对他们来说，诺言是很重要的东西。真实和充满信任的爱——这是他们在人际关系中唯一追寻的真物。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -67,21 +53,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -226,7 +200,7 @@ nono来自山东
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-_Sarah_来自广东
+*Sarah*来自广东
 
 小时候爸爸很爱我，妈妈其实也很关心我，只是会偏心我弟。只是他们可能会时不时否定我，从小就会隐藏内需了。我应该就是infj吧。为什么老是测出来其他的，我到底是啥[Emm]
 
@@ -283,4 +257,3 @@ SilvEr_SoothSayEr来自上海
 粹来自浙江
 
 我是非典型infj，从enfj过来的
-

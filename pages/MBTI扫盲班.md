@@ -1,30 +1,22 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxqEtU4kTCY2WpchjXmhRCgD8JHnOz153DL15Aic7ru2v0SPeEriaPbDHghBIsIOk32PLN1oyj89nWAQ/0?wx_fmt=jpeg)
 
-#  MBTI扫盲班
+# MBTI扫盲班
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-**一、分类**  
+**一、分类**
 
 首先，荣格的八功能不是人的类型，而是意识的类型，是心灵活动的意识朝向。
 
@@ -160,18 +152,14 @@ Mbti是一个理解人格的方便之法，谁都知道把人格分为十六种�
 
 Mbti的基础知识大概就是这些，如果有疑问欢迎评论区留言~
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -179,21 +167,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -287,4 +263,3 @@ infj清醒岛来自
 infj清醒岛来自
 
 是的，一定会有的。这是功能的地位。一个i的将军必然要配一个e的助手。
-

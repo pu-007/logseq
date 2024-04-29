@@ -1,24 +1,16 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxp9bPicKC1d8vczVBPpRe4rsSHX6pcAqA0swFs4Tk7VjCLFKTJjGnS1G1dFhWdSuicMDkeqtypZw20Q/0?wx_fmt=jpeg)
 
-#  为什么说Se可以救INFJ的命
+# 为什么说Se可以救INFJ的命
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
@@ -71,8 +63,6 @@ Se会带动Fi，那是一种接纳真实自我之后的，对自己的爱。
 
 “你也配评价我？你懂什么？”
 
-  
-
 **四、内耗感**
 
 如果一个人一直伤害自己，这个能量投射出去，就一定会伤害他人。所以infj一直在伤害自己的同时，还要自控，把伤害的部分全留给自己，不要把破坏的能量波及出去，将这些破坏力都留到自己的世界。
@@ -115,8 +105,6 @@ Ni—Ti:“...”
 
 Se的发展不会影响Ti的思考能力，之前的Ti是持续的反刍，其实根本想不出什么，能量浪费了太多，有了Se后反而想的东西更清晰，不是什么都想，就会清晰不少。
 
-  
-
 **六、拖延感**
 
 Se的行动力是自发且无需指挥的，因为Se想和外在事物保持一致。
@@ -143,14 +131,12 @@ Se的行动力是自发且无需指挥的，因为Se想和外在事物保持一�
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -158,21 +144,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -232,7 +206,7 @@ infj清醒岛来自
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-綠色碳酸鈉_来自北京
+綠色碳酸鈉\_来自北京
 
 大学以来一直在告诉自己:走一步看一步，车到山前必有路。原来是自己在默默发展se，竟然有一点点感动。
 
@@ -250,7 +224,7 @@ infj清醒岛来自
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-｡ì _ í｡为来自湖南
+｡ì \_ í｡为来自湖南
 
 好想崇拜你 感觉人生中长期累积的困惑与绵延不绝的痛苦都在你的文字里得到了拯救的希望，从未有过的希望
 
@@ -350,4 +324,3 @@ Nicole🎈来自上海
 infj清醒岛来自
 
 公众号底部菜单栏里有整理发展se的文章集合
-

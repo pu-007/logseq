@@ -1,24 +1,16 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxrSXsQiaLQsd0JUWcFwP8WYbhCA1BkUic02LlzAS2ia2EXcd6ROWSZiaqvoJSBL70X7yfTgBF2qFU7nNA/0?wx_fmt=jpeg)
 
-#  INFJ怎么爱自己
+# INFJ怎么爱自己
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
@@ -26,7 +18,7 @@ __ _ _
 
 爱自己是与他人建立关系的基础。
 
-只有爱自己，才能让自己心灵有力量。  
+只有爱自己，才能让自己心灵有力量。
 
 才能不向他人索取认同感，不向他人索取关注，不向他人索取安全感，不怀疑自己是被爱的，不担忧失去爱。
 
@@ -189,18 +181,14 @@ infj常常陷入对过去的懊悔和尴尬中。
 
 用心去做，给自己一份幸福美满的生活。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -208,21 +196,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -346,7 +322,7 @@ RAN.tga来自广东
 
 ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
 
-piuki_来自湖南
+piuki\_来自湖南
 
 谢谢岛💟
 
@@ -375,4 +351,3 @@ Hindsight来自安徽
 诺米团🍉来自上海
 
 岛岛~最近总觉得周围有很对不顺心的事情，好巧看到这篇文章[机智]，看来也要对自己好一点~
-

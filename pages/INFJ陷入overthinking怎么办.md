@@ -1,24 +1,16 @@
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/DZCdtia4bJxoElIxrVkkmYSMO061aEfzTpicP7q8wgcl1rrLXibicibbYcWpEDtachntIqEoHs63VzvvLPFCGUFeKbA/0?wx_fmt=jpeg)
 
-#  INFJ陷入overthinking怎么办？
+# INFJ陷入overthinking怎么办？
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
@@ -96,7 +88,7 @@ Infj的overthinking内容一般是规划未来、幻想未来（Ni）。
 
 一直犹豫会败北。
 
-知道自己要什么后，就会进入下一个环节，下一步就是去做，  我们的关注点就会从内部世界的想法转移到外部世界的行动上去了。
+知道自己要什么后，就会进入下一个环节，下一步就是去做， 我们的关注点就会从内部世界的想法转移到外部世界的行动上去了。
 
 所以可以有效缓解overthinking。
 
@@ -216,18 +208,14 @@ Ni-Ti的内循环会让人关注未来，脱离当下。
 
 这样也可以把自己从精神世界中自然而然地带出来。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -235,21 +223,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -331,4 +307,3 @@ Fiction来自辽宁
 Sheila来自山东
 
 喜欢这一期 非常需要！
-

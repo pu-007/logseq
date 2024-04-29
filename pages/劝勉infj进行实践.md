@@ -1,30 +1,22 @@
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/DZCdtia4bJxrtNqRWa6ddmicRGgaQc25VkwoWNX3JT5e9S3n0Dwtl8l3ogicsdeXcYNJicbibx3PbzuyqlLl9vNmHag/0?wx_fmt=jpeg)
 
-#  劝勉infj进行实践
+# 劝勉infj进行实践
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-今天的内容主要从《道德经》衍伸，老子是个很典型的infj，道德经的Ni味特别浓，给人以高深渺远的感受，又兼强烈的爱民治国Fe之博爱，而且道德经的形式是只言片语的智慧箴言，这个形式也很Ni，读道德经会给infj带来强烈的共鸣感。  
+今天的内容主要从《道德经》衍伸，老子是个很典型的infj，道德经的Ni味特别浓，给人以高深渺远的感受，又兼强烈的爱民治国Fe之博爱，而且道德经的形式是只言片语的智慧箴言，这个形式也很Ni，读道德经会给infj带来强烈的共鸣感。
 
 今天写的是他提出的关于Se的实践观点，我认为对infj来说尤其有用。
 
@@ -155,18 +147,14 @@ Infj迟迟不行动的原因就是觉得它会难，因为设定的目标太远�
 
 所以请不要再漫无止境的规划未来了，赶快开始吧。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -174,21 +162,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -354,4 +330,3 @@ l11来自浙江
 Abraxas来自陕西
 
 很有启发，希望自己的投入困难症会有所改善。谢谢岛儿~
-

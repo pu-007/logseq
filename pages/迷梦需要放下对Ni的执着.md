@@ -1,30 +1,20 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxqZWe8ic9lbN5Xic94AibUC7LD6e0RH0c1bH4YQV27kZrSb8ia5W0BtKxSY4RsCIndpOg9LnfYQibialFcA/0?wx_fmt=jpeg)
 
-#  迷梦 |需要放下对Ni的执着
+# 迷梦 |需要放下对Ni的执着
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
-
-  
 
 Ni是infj最引以为傲的功能。
 
@@ -52,20 +42,14 @@ infj要寻找自我，最难破除的是对完美无缺的圣人面具Ni的执�
 
 Infj需要直面内心的黑暗，变成人，就需要放下对Ni的执着。
 
-  
-
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -73,21 +57,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -138,4 +110,3 @@ music来自贵州
 溪桥来自山东
 
 Ni可不可以理解成幻想一个理想国，沉浸在自己构建的精神世界中啊？
-

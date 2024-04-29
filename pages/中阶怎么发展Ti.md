@@ -1,36 +1,24 @@
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxrLsQay2cIuDO23ibgG7zbCyQrSULwfxpVQsVWYSjsfU6fEM0NRXdwB01fTvkvd31aIiaEYanl4cbXQ/0?wx_fmt=jpeg)
 
-#  中阶| 怎么发展Ti
+# 中阶| 怎么发展Ti
 
-原创  [[INFJ清醒岛]]  
+原创 [[INFJ清醒岛]]
 
+功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
 
+---
 
-
-
-功能介绍  找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
-
-__ __
-
-__ _ _
+---
 
 ✦
-
-  
-
-
 
 感谢喜欢
 
 ✦
 
-  
-
 就提一个可行性方案：在知乎上写回答，最好还是那种容易撕起来的话题下面写。
 
 每几天写一个，字数要多一点。一共写200个左右的回答，耗费一两年，就差不多了。
-
-  
 
 **原因:**
 
@@ -84,18 +72,14 @@ Ti会取代Fi，更找不到自己了。总是从理性人角度考虑问题，�
 
 总的来说发展Ti的好处是远远大于坏处的，掌握了这个工具之后，所有现象背后的运行结构只要你愿意研究，都可以一清二楚。
 
-  
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
 
-END  
+END
 
 预览时标签不可点
 
 微信扫一扫  
 关注该公众号
-
-
 
 轻触阅读原文
 
@@ -103,21 +87,9 @@ END
 
 infj清醒岛
 
+---
 
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-
+---
 
 精选留言
 
@@ -241,4 +213,3 @@ Abraxas来自云南
 Elsa来自浙江
 
 知乎上都是大佬，觉得自己逻辑行文能力好差
-
