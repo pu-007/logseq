@@ -299,7 +299,7 @@
   
   infj清醒岛来自
   
-  荣格认为这不是简单的巧合，而是一种“共时性原则”
+  [[荣格]]认为这不是简单的巧合，而是一种“共时性原则”
   
   ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
   

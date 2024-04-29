@@ -211,7 +211,7 @@
   
   infj清醒岛来自
   
-  荣格斯的八维测试里,Si和Se至少要低于20会这样。
+  [[荣格]]斯的八维测试里,Si和Se至少要低于20会这样。
   
   ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
   

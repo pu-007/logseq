@@ -232,7 +232,7 @@
   fallen angel来自陕西
   
   近期有个大目标！好好攒钱💰搞个车车，冬天的电动车着实让我麻木了！希望两年内可以实现自己首付款，全部自己来，不想问爸妈要钱。冲冲冲。岛岛这篇刚好让我制定一个大计划，西安高陵疫情搞得这周没法上班，今天准备看心理类型-
-  荣格的这本书。——来自小王的碎碎念
+  [[荣格]]的这本书。——来自小王的碎碎念
   
   ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
   
