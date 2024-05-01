@@ -89,7 +89,7 @@
  ;; Available options:
  ;;  - integer from 0 to 6 (Monday to Sunday)
  ;; Default value: 6 (Sunday)
- :start-of-week 6
+ :start-of-week 0
 
  ;; Specify a custom CSS import.
  ;; This option takes precedence over the local `logseq/custom.css` file.
@@ -248,29 +248,15 @@
  ;;  ["md" "Markdown"]
  ;;  ]
  :commands [
-  ["yw" "#I"]
-  ["sx" "#T"]
-  ["yy" "#G"]
-  ["wl" "#Y"]
-  ["hx" "#E"]
-  ["sw" "#O"]
-
-  ["tyw" "TODO #I"]
-  ["tsx" "TODO #T"]
-  ["tyy" "TODO #G"]
-  ["twl" "TODO #Y"]
-  ["thx" "TODO #E"]
-  ["tsw" "TODO #O"]
-
   ["cgp" "#card-group"]
   ["cd" "#card"]
 
-  ["ayw" "#card-group \n deck:: #I/"]
-  ["asx" "#card-group \n deck:: #T/"]
-  ["ayy" "#card-group \n deck:: #G/"]
-  ["awl" "#card-group \n deck:: #Y/"]
-  ["ahx" "#card-group \n deck:: #E/"]
-  ["asw" "#card-group \n deck:: #O/"]
+  ["ayw" "#card-group \n deck:: #ys/"]
+  ["asx" "#card-group \n deck:: #sx/"]
+  ["ayy" "#card-group \n deck:: #yy/"]
+  ["awl" "#card-group \n deck:: #wl/"]
+  ["ahx" "#card-group \n deck:: #hx/"]
+  ["asw" "#card-group \n deck:: #sw/"]
 
   ["chemical" [[:editor/input "$\\ce{}$" {:backward-pos 2}]]]
 
@@ -385,10 +371,12 @@
  ;; Extra CodeMirror options
  ;; See https://codemirror.net/5/doc/manual.html#config for possible options
  ;; Example usage:
- ;; :editor/extra-codemirror-options
- ;; {:lineWrapping  false  ; Default value: false
- ;;  :lineNumbers   true   ; Default value: true
- ;;  :readOnly      false} ; Default value: false
+:editor/extra-codemirror-options
+{:lineWrapping  false  ; Default value: false
+ :lineNumbers   true   ; Default value: true
+ :readOnly      false ; Default value: false
+ :theme         "gruvbox-dark"
+}
 
  ;; Enable logical outdenting
  ;; Default value: false
