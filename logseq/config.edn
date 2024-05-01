@@ -376,6 +376,7 @@
  :lineNumbers   true   ; Default value: true
  :readOnly      false ; Default value: false
  :theme         "gruvbox-dark"
+ ;:keymap        "vim" ; maybe can't work
 }
 
  ;; Enable logical outdenting
