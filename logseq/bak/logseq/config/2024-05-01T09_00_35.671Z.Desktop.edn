@@ -46,7 +46,7 @@
 
  ;; Display all lines of a block when referencing ((block)).
  ;; Default value: false
- :ui/show-full-blocks? false
+ :ui/show-full-blocks? true
 
  ;; Automatically expand block references when zooming in.
  ;; Default value: true
@@ -248,26 +248,43 @@
  ;;  ["md" "Markdown"]
  ;;  ]
  :commands [
-  ["yw" "TODO #语文"]
-  ["sx" "TODO #数学"]
-  ["yy" "TODO #英语"]
-  ["wl" "TODO #物理"]
-  ["hx" "TODO #化学"]
-  ["sw" "TODO #生物"]
-  ["wz" "TODO #文综"]
+  ["yw" "#I"]
+  ["sx" "#T"]
+  ["yy" "#G"]
+  ["wl" "#Y"]
+  ["hx" "#E"]
+  ["sw" "#O"]
+
+  ["tyw" "TODO #I"]
+  ["tsx" "TODO #T"]
+  ["tyy" "TODO #G"]
+  ["twl" "TODO #Y"]
+  ["thx" "TODO #E"]
+  ["tsw" "TODO #O"]
 
   ["cgp" "#card-group"]
   ["cd" "#card"]
 
-  ["ayw" "#card-group \n deck:: #语文/"]
-  ["asx" "#card-group \n deck:: #数学/"]
-  ["ayy" "#card-group \n deck:: #英语/"]
-  ["awl" "#card-group \n deck:: #物理/"]
-  ["ahx" "#card-group \n deck:: #化学/"]
-  ["asw" "#card-group \n deck:: #生物/"]
-  ["awz" "#card-group \n deck:: #文综/"]
+  ["ayw" "#card-group \n deck:: #I/"]
+  ["asx" "#card-group \n deck:: #T/"]
+  ["ayy" "#card-group \n deck:: #G/"]
+  ["awl" "#card-group \n deck:: #Y/"]
+  ["ahx" "#card-group \n deck:: #E/"]
+  ["asw" "#card-group \n deck:: #O/"]
 
   ["chemical" [[:editor/input "$\\ce{}$" {:backward-pos 2}]]]
+
+  ["deck" "deck:: #"]
+
+  ["delta" "\\delta"]
+  ["Delta" "\\Delta"]
+  ["pi" "\\pi"]
+  ["Pi" "\\Pi"]
+  ["omega" "\\omega"]
+  ["Omega" "\\Omega"]
+  ["theta" "\\theta"]
+  ["Theta" "\\Theta"]
+  ["vector" [[:editor/input "\\overrightarrow{}" {:backward-pos 1}]]]
 ]
 
  ;; Enable collapsing blocks with titles but no children.
@@ -313,7 +330,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["kanban" "Template Collection" "学习看板"]
+ :favorites ["Template Collection" "学习看板"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -437,4 +454,5 @@
  :publishing/all-pages-public? true
  :editor/preferred-pasting-file? true
  :ui/show-brackets? true
- :editor/logical-outdenting? true}
+ :editor/logical-outdenting? true
+ :graph/settings {:journal? false}}
