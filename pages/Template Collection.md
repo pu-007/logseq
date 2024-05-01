@@ -4,7 +4,7 @@
 	- #每日习题
 	- #DONELIST
 -
-- DailyX Template
+- Daily Template X
   template:: DailyX
   template-including-parent:: false
 	- ## Morning Pages
