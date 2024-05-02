@@ -1,8 +1,5 @@
 - Daily Template X
   template:: Daily
   template-including-parent:: false
-	- ## Morning Pages
-		-
-	- -----
-	- ## Daily Log
-		-
+	- #三件值得肯定的事 #.ol
+	-
