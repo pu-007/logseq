@@ -2,6 +2,7 @@
   template:: Daily
   template-including-parent:: false
 	-
+	-
 - End Today Template
   template:: End Today
   template-including-parent:: false
