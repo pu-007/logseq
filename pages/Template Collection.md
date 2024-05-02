@@ -5,7 +5,7 @@
 - End Today Template
   template:: End Today
   template-including-parent:: false
-	- <randomblock INFJ清醒岛>
+	- <%randomblock INFJ清醒岛%>
 	- End Today
 		- [[3 things I appreciate myself]]
 		- [[3 things I determine to do]]
