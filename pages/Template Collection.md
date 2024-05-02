@@ -6,5 +6,4 @@
   template:: End Today
   template-including-parent:: false
 	- [[3 things I appreciate myself]]
-	- [[3 things I determine to do]]
-	  SCHEDULED: <%tomorrow%>
+	- [[3 things I determine to do]] on <%tomorrow%>
