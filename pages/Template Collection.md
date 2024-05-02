@@ -7,4 +7,4 @@
   template-including-parent:: false
 	- [[3 things I appreciate myself]]
 	- [[3 things I determine to do]]
-	  SCHDULED: <%tomorrow%>
+	  SCHEDULED: <%tomorrow%>
