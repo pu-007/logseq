@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals "Daily"}
+ {:journals "DailyX"}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
@@ -89,7 +89,7 @@
  ;; Available options:
  ;;  - integer from 0 to 6 (Monday to Sunday)
  ;; Default value: 6 (Sunday)
- :start-of-week 6
+ :start-of-week 0
 
  ;; Specify a custom CSS import.
  ;; This option takes precedence over the local `logseq/custom.css` file.
@@ -248,37 +248,28 @@
  ;;  ["md" "Markdown"]
  ;;  ]
  :commands [
-  ["yw" "#语文"]
-  ["sx" "#数学"]
-  ["yy" "#英语"]
-  ["wl" "#物理"]
-  ["hx" "#化学"]
-  ["sw" "#生物"]
-  ["wz" "#文综"]
-
-  ["tyw" "TODO #语文"]
-  ["tsx" "TODO #数学"]
-  ["tyy" "TODO #英语"]
-  ["twl" "TODO #物理"]
-  ["thx" "TODO #化学"]
-  ["tsw" "TODO #生物"]
-  ["twz" "TODO #文综"]
-
   ["cgp" "#card-group"]
   ["cd" "#card"]
 
-  ["ayw" "#card-group \n deck:: #语文/"]
-  ["asx" "#card-group \n deck:: #数学/"]
-  ["ayy" "#card-group \n deck:: #英语/"]
-  ["awl" "#card-group \n deck:: #物理/"]
-  ["ahx" "#card-group \n deck:: #化学/"]
-  ["asw" "#card-group \n deck:: #生物/"]
-  ["awz" "#card-group \n deck:: #文综/"]
+  ["ayw" "#card-group \n deck:: #ys/"]
+  ["asx" "#card-group \n deck:: #sx/"]
+  ["ayy" "#card-group \n deck:: #yy/"]
+  ["awl" "#card-group \n deck:: #wl/"]
+  ["ahx" "#card-group \n deck:: #hx/"]
+  ["asw" "#card-group \n deck:: #sw/"]
 
   ["chemical" [[:editor/input "$\\ce{}$" {:backward-pos 2}]]]
 
+  ["deck" "deck:: #"]
+
   ["delta" "\\delta"]
   ["Delta" "\\Delta"]
+  ["pi" "\\pi"]
+  ["Pi" "\\Pi"]
+  ["omega" "\\omega"]
+  ["Omega" "\\Omega"]
+  ["theta" "\\theta"]
+  ["Theta" "\\Theta"]
   ["vector" [[:editor/input "\\overrightarrow{}" {:backward-pos 1}]]]
 ]
 
@@ -325,7 +316,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["kanban" "Template Collection" "学习看板"]
+ :favorites ["Template Collection" "学习看板"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -380,10 +371,13 @@
  ;; Extra CodeMirror options
  ;; See https://codemirror.net/5/doc/manual.html#config for possible options
  ;; Example usage:
- ;; :editor/extra-codemirror-options
- ;; {:lineWrapping  false  ; Default value: false
- ;;  :lineNumbers   true   ; Default value: true
- ;;  :readOnly      false} ; Default value: false
+:editor/extra-codemirror-options
+{:lineWrapping  false  ; Default value: false
+ :lineNumbers   true   ; Default value: true
+ :readOnly      false ; Default value: false
+ :theme         "gruvbox-dark"
+ ;:keymap        "vim" ; maybe can't work
+}
 
  ;; Enable logical outdenting
  ;; Default value: false
@@ -449,4 +443,5 @@
  :publishing/all-pages-public? true
  :editor/preferred-pasting-file? true
  :ui/show-brackets? true
- :editor/logical-outdenting? true}
+ :editor/logical-outdenting? true
+ :graph/settings {:journal? false}}
