@@ -1,7 +1,7 @@
 - Daily Template
   template:: Daily
   template-including-parent:: false
-	- {{renderer :smartblockInline, End Today, ture}}
+	- {{renderer :smartblockInline, End Today, true}}
 - End Today Template
   template:: End Today
   template-including-parent:: false
