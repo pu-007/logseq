@@ -1,7 +1,7 @@
 - Daily Template
   template:: Daily
   template-including-parent:: false
-	- <%tomorrow%>
+	-
 - End Today Template
   template:: End Today
   template-including-parent:: false
