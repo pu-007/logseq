@@ -1,0 +1,668 @@
+{:blocks (
+{:block/created-at 1714491053312
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 3 0.5] [0 8 0.5] [0 13 0.5] [0 19 0.5] [1 29 0.5] [1.5 33 0.5] [1 37.5 0.5] [2.5 41.5 0.5] [2 44.5 0.5] [2 46.5 0.5] [2 50 0.5] [2 54 0.5] [2 57.5 0.5] [2 60.5 0.5] [3 66.5 0.5] [3.5 68 0.5] [3 70 0.5] [3 71.5 0.5] [3 73.5 0.5] [3 75 0.5] [3 78 0.5] [3 79 0.5] [3 81.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9f94c4e0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [334 115]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491050055
+:isComplete true}}
+:block/updated-at 1714491053312} 
+{:block/created-at 1714491055536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 14.5 0.5] [2 14.5 0.5] [5.5 14.5 0.5] [13.5 14.5 0.5] [23 14.5 0.5] [30.5 12.5 0.5] [39 12 0.5] [51.5 10.5 0.5] [61 9 0.5] [69.5 8 0.5] [84.5 7.5 0.5] [95 7.5 0.5] [102 7.5 0.5] [107.5 7.5 0.5] [111.5 7.5 0.5] [115 7.5 0.5] [120 7.5 0.5] [129 5.5 0.5] [136 5.5 0.5] [148 3.5 0.5] [152 3 0.5] [158.5 1.5 0.5] [165.5 0.5 0.5] [170.5 1 0.5] [174.5 0 0.5] [178.5 0 0.5] [181.5 0 0.5] [183.5 0 0.5] [185 0 0.5] [187 2.5 0.5] [188 6.5 0.5] [188 15.5 0.5] [189 18.5 0.5] [189 21 0.5] [189 23.5 0.5] [189 25 0.5] [189 27.5 0.5] [189 29.5 0.5] [189 33 0.5] [189 42 0.5] [189 46 0.5] [189 51 0.5] [189 58 0.5] [189 63.5 0.5] [187.5 68.5 0.5] [188 74.5 0.5] [188 77.5 0.5] [188 80 0.5] [188 81.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a0448ce0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [343.5 109]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491051233
+:isComplete true}}
+:block/updated-at 1714491055536} 
+{:block/created-at 1714491058903
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 2 0.5] [3.5 2 0.5] [7 2 0.5] [12 2 0.5] [22 2 0.5] [27.5 2 0.5] [31.5 2 0.5] [36.5 0.5 0.5] [51.5 1 0.5] [57 1 0.5] [66 1 0.5] [72 1 0.5] [86.5 1 0.5] [93.5 0.5 0.5] [107 0 0.5] [112.5 0 0.5] [117.5 0 0.5] [122.5 0 0.5] [126.5 0 0.5] [132 0 0.5] [134.5 0 0.5] [135.5 0 0.5] [137.5 0 0.5] [139.5 0 0.5] [141 0 0.5] [143.5 0 0.5] [145.5 0 0.5] [147 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a1f486d0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [371 190]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491054043
+:isComplete true}}
+:block/updated-at 1714491058903} 
+{:block/created-at 1714491061097
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 2 0.5] [0 8.5 0.5] [0 10.5 0.5] [0 15 0.5] [0 19 0.5] [0 21.5 0.5] [0 25 0.5] [0 28 0.5] [0 31 0.5] [0 33.5 0.5] [0 35.5 0.5] [0 39.5 0.5] [0 42 0.5] [0 44.5 0.5] [0 47 0.5] [0 49.5 0.5] [0 51 0.5] [0 53 0.5] [0 55.5 0.5] [0 58 0.5] [0 61 0.5] [0 65 0.5] [0 67 0.5] [0 69 0.5] [0 70.5 0.5] [0 72.5 0.5] [0 74 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a4509f40-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [337.5 236]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491058001
+:isComplete true}}
+:block/updated-at 1714491061097} 
+{:block/created-at 1714491066662
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [3 0 0.5] [9.5 0 0.5] [12 0 0.5] [20 0 0.5] [25 0 0.5] [29 0 0.5] [35 1.5 0.5] [38 1 0.5] [49 1 0.5] [54.5 1 0.5] [67 1 0.5] [71.5 1 0.5] [78.5 1 0.5] [90 1 0.5] [95.5 1 0.5] [105.5 1 0.5] [114 1 0.5] [121 1 0.5] [127.5 0 0.5] [134 0 0.5] [143 0 0.5] [149 0 0.5] [154.5 0 0.5] [159 0 0.5] [162.5 0 0.5] [166.5 0 0.5] [170.5 0 0.5] [172 0 0.5] [174 0 0.5] [176 0 0.5] [178 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a5079330-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [338.5 242.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491059204
+:isComplete true}}
+:block/updated-at 1714491066662} 
+{:block/created-at 1714491069254
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 4 0.5] [4 4 0.5] [15.5 5 0.5] [25 5 0.5] [33.5 5 0.5] [37 5 0.5] [51.5 5 0.5] [58.5 5 0.5] [71 4 0.5] [75.5 3.5 0.5] [81.5 2.5 0.5] [89 3 0.5] [93.5 3 0.5] [100 3 0.5] [112.5 2 0.5] [116.5 2 0.5] [122.5 1 0.5] [130 0 0.5] [144 0 0.5] [149 0 0.5] [156.5 0 0.5] [162.5 0 0.5] [166.5 0 0.5] [170 0 0.5] [176 0 0.5] [177.5 0 0.5] [179 0 0.5] [184 0 0.5] [187.5 0 0.5] [189.5 0 0.5] [191 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a8a68be0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [341.5 295]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491065278
+:isComplete true}}
+:block/updated-at 1714491069254} 
+{:block/created-at 1714491075795
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [2.5 0 0.5] [5.5 0 0.5] [10.5 0 0.5] [12.5 0 0.5] [14.5 0 0.5] [16.5 0 0.5] [18 0 0.5] [20 0 0.5] [22 0 0.5] [24 0 0.5] [26.5 0 0.5] [28.5 0 0.5] [31 0 0.5] [32.5 0 0.5] [33.5 2 0.5] [33.5 4 0.5] [33.5 10 0.5] [33.5 13.5 0.5] [33.5 16 0.5] [33.5 18 0.5] [33.5 22 0.5] [33.5 23 0.5] [33.5 25 0.5] [33.5 27 0.5] [33.5 29.5 0.5] [33.5 33.5 0.5] [33.5 38 0.5] [33.5 42.5 0.5] [33.5 44.5 0.5] [33.5 46 0.5] [34.5 50 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a9b11e10-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [502 240]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491067026
+:isComplete true}}
+:block/updated-at 1714491075795} 
+{:block/created-at 1714491080160
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 12.5 0.5] [0 16 0.5] [0 20 0.5] [0 23.5 0.5] [0 29 0.5] [0 34.5 0.5] [0 42 0.5] [0 47.5 0.5] [0 50 0.5] [0 52.5 0.5] [0 54.5 0.5] [0 55.5 0.5] [0 58 0.5] [0 59.5 0.5] [2.5 61 0.5] [7.5 63 0.5] [9.5 63.5 0.5] [12 64.5 0.5] [16.5 64 0.5] [30.5 65 0.5] [37.5 65 0.5] [42 65 0.5] [46.5 65 0.5] [50 65 0.5] [55 65 0.5] [64 65 0.5] [68 65 0.5] [74 65 0.5] [79 64 0.5] [85 64 0.5] [95.5 62 0.5] [101 61.5 0.5] [104.5 60.5 0.5] [108.5 60 0.5] [116 60 0.5] [119 60 0.5] [122.5 60 0.5] [127 60 0.5] [131 58.5 0.5] [133.5 59 0.5] [137 58 0.5] [141.5 58 0.5] [143.5 58 0.5] [145 58 0.5] [146.5 58 0.5] [149 58 0.5] [151 58 0.5] [153.5 58 0.5] [156 58 0.5] [158 58 0.5] [159.5 58 0.5] [161.5 58 0.5] [163 55.5 0.5] [163 50.5 0.5] [163 47 0.5] [163 44.5 0.5] [163 40 0.5] [163 33.5 0.5] [163 29.5 0.5] [162 26 0.5] [161 22.5 0.5] [159 18 0.5] [156.5 11 0.5] [154.5 7 0.5] [154 5 0.5] [152.5 2.5 0.5] [153 1.5 0.5] [148 0 0.5] [144.5 0 0.5] [142 0 0.5] [137.5 0 0.5] [128 2.5 0.5] [120.5 4 0.5] [113.5 5.5 0.5] [108 5 0.5] [102.5 5 0.5] [98.5 6.5 0.5] [92 7.5 0.5] [85 8.5 0.5] [78.5 8 0.5] [73.5 8 0.5] [69.5 8 0.5] [61 9 0.5] [58.5 9.5 0.5] [40 9 0.5] [36 9 0.5] [33 9 0.5] [31 9 0.5] [29 9 0.5] [24.5 9 0.5] [22.5 9 0.5] [20.5 9 0.5] [19 9 0.5] [17 9 0.5] [15.5 9 0.5] [13 9 0.5] [10.5 9 0.5] [6 9 0.5] [4.5 9 0.5] [3 9 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "abfc6da0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [334.5 22]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491070943
+:isComplete true}}
+:block/updated-at 1714491080160} 
+{:block/created-at 1714491084527
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[6.5 0 0.5] [5 4.5 0.5] [4 8.5 0.5] [3 11.5 0.5] [1 21.5 0.5] [0 29 0.5] [0 37.5 0.5] [0 40.5 0.5] [0 43.5 0.5] [0 49 0.5] [1 52 0.5] [1.5 54 0.5] [2.5 56 0.5] [4 59 0.5] [5.5 62 0.5] [7 64.5 0.5] [11 69 0.5] [12.5 70.5 0.5] [14.5 72.5 0.5] [17.5 74.5 0.5] [19 75 0.5] [21.5 77.5 0.5] [25 79.5 0.5] [27.5 81 0.5] [30 84 0.5] [32.5 86.5 0.5] [38 92 0.5] [40 94 0.5] [42 96.5 0.5] [44.5 99 0.5] [46 100.5 0.5] [48.5 103 0.5] [50.5 105.5 0.5] [52.5 108.5 0.5] [55 111 0.5] [57 115 0.5] [59.5 119.5 0.5] [60.5 121 0.5] [61.5 123 0.5] [63 126 0.5] [64.5 127.5 0.5] [65.5 129.5 0.5] [66 132 0.5] [66 134 0.5] [67 140 0.5] [67 141.5 0.5] [67 147.5 0.5] [67 151 0.5] [67 153.5 0.5] [67 155 0.5] [67 159.5 0.5] [67 165 0.5] [67 171 0.5] [67 177 0.5] [67 185 0.5] [67 198 0.5] [67 202.5 0.5] [67 210.5 0.5] [67 218.5 0.5] [67 225 0.5] [67 230 0.5] [67 239.5 0.5] [68 244 0.5] [68.5 247 0.5] [68 250 0.5] [69 253.5 0.5] [69 259 0.5] [69 261 0.5] [69 263.5 0.5] [70 264.5 0.5] [70 266.5 0.5] [70 270 0.5] [70 272.5 0.5] [70 275.5 0.5] [70 277 0.5] [70 278.5 0.5] [70 281 0.5] [70 283 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b033aeb0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [211.5 34.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491077994
+:isComplete true}}
+:block/updated-at 1714491084527} 
+{:block/created-at 1714491087436
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 2.5 0.5] [0 7 0.5] [1.5 11.5 0.5] [2.5 15 0.5] [3.5 18 0.5] [4.5 21.5 0.5] [5.5 25 0.5] [7 29 0.5] [8.5 32 0.5] [10 35.5 0.5] [12.5 41.5 0.5] [13 43.5 0.5] [14 45.5 0.5] [15 48 0.5] [14.5 49.5 0.5] [16 51.5 0.5] [17.5 52 0.5] [19.5 52 0.5] [22 52 0.5] [23.5 53 0.5] [25.5 53 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b1d1ce50-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [260 34]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491080652
+:isComplete true}}
+:block/updated-at 1714491087436} 
+{:block/created-at 1714491089952
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [2 0 0.5] [4.5 0 0.5] [6 0 0.5] [8.5 0 0.5] [12 1 0.5] [13.5 1 0.5] [15 2 0.5] [17.5 3.5 0.5] [19 4 0.5] [21.5 5 0.5] [23.5 6 0.5] [25 6 0.5] [27.5 7.5 0.5] [29 9 0.5] [31.5 10.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b53bad40-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [281 90]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491086373
+:isComplete true}}
+:block/updated-at 1714491089952} 
+{:block/created-at 1714491094135
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [2 0 0.5] [6.5 0 0.5] [10 0 0.5] [15.5 0 0.5] [18.5 0 0.5] [23.5 0 0.5] [26.5 0 0.5] [29 0 0.5] [33 0 0.5] [34.5 0 0.5] [35.5 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b6ed2dd0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [334 191.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491089210
+:isComplete true}}
+:block/updated-at 1714491094135} 
+{:block/created-at 1714491095443
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[12 0 0.5] [9 9.5 0.5] [7.5 13 0.5] [6.5 16 0.5] [5.5 19.5 0.5] [5 22 0.5] [4 25 0.5] [2.5 28.5 0.5] [2 30 0.5] [1 32 0.5] [0 34 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b9811f20-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [361 139]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491093534
+:isComplete true}}
+:block/updated-at 1714491095443} 
+{:block/created-at 1714491096465
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[35 0 0.5] [32 2.5 0.5] [29 5 0.5] [24 9 0.5] [21.5 10.5 0.5] [19 11.5 0.5] [16 12.5 0.5] [14.5 12 0.5] [11.5 13.5 0.5] [9.5 13 0.5] [7.5 13 0.5] [4 13 0.5] [1.5 12 0.5] [0 11 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ba4d21b0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [384 166]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491094874
+:isComplete true}}
+:block/updated-at 1714491096465} 
+{:block/created-at 1714491097759
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [3.5 1 0.5] [6.5 0 0.5] [10 0 0.5] [16 0 0.5] [18.5 0 0.5] [22.5 0 0.5] [24 0 0.5] [26 0 0.5] [28 0 0.5] [30 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "baf60be0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [400 139]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491095978
+:isComplete true}}
+:block/updated-at 1714491097759} 
+{:block/created-at 1714491099786
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[7.5 0 0.5] [6.5 2.5 0.5] [5.5 5.5 0.5] [4 10 0.5] [3 12 0.5] [1.5 15 0.5] [0.5 16.5 0.5] [0 18 0.5] [2 19 0.5] [7.5 19 0.5] [10 19 0.5] [11.5 19 0.5] [14 19 0.5] [18.5 19 0.5] [20.5 19 0.5] [22 19 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bb6632d0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [396 140.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491096718
+:isComplete true}}
+:block/updated-at 1714491099786} 
+{:block/created-at 1714491101821
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 16
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[18.5 0 0.5] [18.5 2 0.5] [16.5 6.5 0.5] [15 10 0.5] [11.5 17 0.5] [9.5 20.5 0.5] [8 23 0.5] [5 29.5 0.5] [4.5 31 0.5] [3.5 33 0.5] [2.5 34.5 0.5] [2.5 36.5 0.5] [1.5 38.5 0.5] [0 40.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bcb52100-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [360 247.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491098911
+:isComplete true}}
+:block/updated-at 1714491101821} 
+{:block/created-at 1714491110020
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[16 0 0.5] [18 0 0.5] [16.5 3.5 0.5] [15 4.5 0.5] [12 7.5 0.5] [8.5 10 0.5] [7 12 0.5] [4.5 14 0.5] [2.5 15.5 0.5] [1 16.5 0.5] [4 16.5 0.5] [8 16.5 0.5] [11 16.5 0.5] [19.5 16.5 0.5] [21.5 16.5 0.5] [22.5 16.5 0.5] [27.5 16.5 0.5] [28.5 16.5 0.5] [27.5 20.5 0.5] [26.5 22 0.5] [24.5 23.5 0.5] [22.5 25.5 0.5] [20.5 27.5 0.5] [18.5 29.5 0.5] [17 30.5 0.5] [14.5 31.5 0.5] [12.5 31.5 0.5] [10 32.5 0.5] [8 32.5 0.5] [4.5 33.5 0.5] [2.5 33.5 0.5] [1 33.5 0.5] [0 33.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bd65ac50-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [387.5 261.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491100087
+:isComplete true}}
+:block/updated-at 1714491110020} 
+{:block/created-at 1714491111252
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[14 0 0.5] [14 2.5 0.5] [11.5 9.5 0.5] [10.5 12.5 0.5] [8.5 17 0.5] [6 24.5 0.5] [5 28 0.5] [3 35.5 0.5] [0.5 43.5 0.5] [0 44.5 0.5] [0 46.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c2f7e980-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [394 39.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491109412
+:isComplete true}}
+:block/updated-at 1714491111252} 
+{:block/created-at 1714491116465
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[17.5 0 0.5] [20 0 0.5] [22.5 0 0.5] [24 0 0.5] [26.5 0 0.5] [28 2 0.5] [29 7.5 0.5] [29 9.5 0.5] [29 11 0.5] [26.5 14 0.5] [25 16 0.5] [23 16.5 0.5] [21 17.5 0.5] [19 18.5 0.5] [16.5 18.5 0.5] [13 18.5 0.5] [10.5 18.5 0.5] [8.5 18.5 0.5] [5.5 18.5 0.5] [3 18.5 0.5] [0 18.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c3757df0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [399.5 46]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491110245
+:isComplete true}}
+:block/updated-at 1714491116465} 
+{:block/created-at 1714491119183
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 2 0.5] [0 7 0.5] [0 9.5 0.5] [0 11.5 0.5] [0 13 0.5] [0 18 0.5] [0 19.5 0.5] [0 22.5 0.5] [0 24 0.5] [0 28 0.5] [0 29 0.5] [0 31 0.5] [0 33.5 0.5] [0 36 0.5] [0 38 0.5] [0 39.5 0.5] [0 42.5 0.5] [2.5 43 0.5] [5.5 44.5 0.5] [9 44 0.5] [12 44 0.5] [16 44 0.5] [23.5 45 0.5] [26.5 45 0.5] [31.5 45 0.5] [35.5 45 0.5] [40.5 45 0.5] [46 45 0.5] [51.5 45 0.5] [61 44 0.5] [65 42.5 0.5] [74 40.5 0.5] [77 39.5 0.5] [82 38.5 0.5] [87 39 0.5] [90.5 38 0.5] [95 38 0.5] [99.5 38 0.5] [102 38 0.5] [104 38 0.5] [105.5 37 0.5] [109 37 0.5] [110 37 0.5] [112.5 37 0.5] [114 37 0.5] [116 37 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c6172ae0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [531 34.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491114686
+:isComplete true}}
+:block/updated-at 1714491119183} 
+{:block/created-at 1714491120598
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 2.5 0.5] [2 2.5 0.5] [7 2.5 0.5] [9.5 2.5 0.5] [17 2.5 0.5] [21.5 2.5 0.5] [35.5 2 0.5] [40 1 0.5] [43.5 1.5 0.5] [48.5 1.5 0.5] [52 1.5 0.5] [61 0 0.5] [63 0.5 0.5] [66.5 0.5 0.5] [71.5 0.5 0.5] [74 0.5 0.5] [75.5 0.5 0.5] [77 0.5 0.5] [78.5 0.5 0.5] [80.5 0.5 0.5] [83.5 0.5 0.5] [86 0.5 0.5] [89 0.5 0.5] [90.5 0.5 0.5] [92 0.5 0.5] [93.5 0.5 0.5] [95.5 0.5 0.5] [97 3.5 0.5] [98.5 8 0.5] [99 18 0.5] [100 23 0.5] [100 27.5 0.5] [101 30.5 0.5] [101 32.5 0.5] [101 36 0.5] [101 37 0.5] [101 38.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c7ba7aa0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [559 29]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491117424
+:isComplete true}}
+:block/updated-at 1714491120598} 
+{:block/created-at 1714491122134
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 22
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[7.5 0 0.5] [7.5 2.5 0.5] [3 14 0.5] [3 15.5 0.5] [1.5 17.5 0.5] [2 19 0.5] [1 21.5 0.5] [0 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c9294ce0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [576.5 41.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491119799
+:isComplete true}}
+:block/updated-at 1714491122134} 
+{:block/created-at 1714491123510
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ca478e20-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [593 50]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491121668
+:isComplete true}}
+:block/updated-at 1714491123510} 
+{:block/created-at 1714491124792
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 24
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [2 0 0.5] [4.5 0 0.5] [7 0 0.5] [9 0 0.5] [11 0 0.5] [13 0 0.5] [14.5 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "cafd2280-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [586.5 59.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491122865
+:isComplete true}}
+:block/updated-at 1714491124792} 
+{:block/created-at 1714491130143
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 25
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[9 0 0.5] [7 5.5 0.5] [6 9 0.5] [5.5 11 0.5] [4.5 14.5 0.5] [4 16.5 0.5] [2.5 19.5 0.5] [2 21 0.5] [2 22.5 0.5] [0.5 25 0.5] [0 26.5 0.5] [0 29 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "cb912520-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [598.5 39]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491123839
+:isComplete true}}
+:block/updated-at 1714491130143} 
+{:block/created-at 1714491139260
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 26
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 5 0.5] [2.5 3 0.5] [5 0.5 0.5] [7 0 0.5] [9.5 0 0.5] [11 0 0.5] [13.5 1 0.5] [15 2.5 0.5] [16 5 0.5] [16 7 0.5] [15 10.5 0.5] [14 12 0.5] [12.5 13.5 0.5] [11 14.5 0.5] [9 14.5 0.5] [6.5 12.5 0.5] [4 11 0.5] [2 9 0.5] [0.5 7.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ce98e6e0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [368 211]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491128930
+:isComplete true}}
+:block/updated-at 1714491139260} 
+{:block/created-at 1714491143073
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 27
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 210 0.5] [2 210 0.5] [5 210 0.5] [9 210 0.5] [10 210 0.5] [12 210 0.5] [15 210 0.5] [18.5 210 0.5] [20 210 0.5] [21.5 210 0.5] [28 210 0.5] [29 210 0.5] [32 210 0.5] [35.5 210 0.5] [37 210 0.5] [38.5 210 0.5] [40.5 210 0.5] [45.5 210 0.5] [50 210 0.5] [53 210 0.5] [54.5 210 0.5] [58.5 210 0.5] [64.5 210 0.5] [67 210 0.5] [70.5 210 0.5] [74.5 210 0.5] [83.5 210 0.5] [89 210 0.5] [90.5 210 0.5] [94 210 0.5] [96.5 210 0.5] [99.5 210 0.5] [103.5 210 0.5] [107.5 210 0.5] [111 210 0.5] [117 210 0.5] [123 210 0.5] [125.5 210 0.5] [128 210 0.5] [131 210 0.5] [133 210 0.5] [135.5 210 0.5] [138.5 210 0.5] [141 210 0.5] [143 210 0.5] [145 210 0.5] [148.5 210 0.5] [150 210 0.5] [152.5 210 0.5] [155 210 0.5] [156.5 210 0.5] [158 210 0.5] [161 210 0.5] [163.5 210 0.5] [169 210 0.5] [173 210 0.5] [175.5 210 0.5] [178 210 0.5] [179.5 210 0.5] [181.5 210 0.5] [183 210 0.5] [185 210 0.5] [189 204.5 0.5] [190.5 201.5 0.5] [192.5 196.5 0.5] [193 190 0.5] [193 187 0.5] [193 182 0.5] [193 179.5 0.5] [193 177.5 0.5] [193 175.5 0.5] [193 171 0.5] [193 169.5 0.5] [193 167.5 0.5] [193 166 0.5] [193 164 0.5] [193 162.5 0.5] [193 158.5 0.5] [193 153.5 0.5] [193 152 0.5] [193 149.5 0.5] [191.5 146.5 0.5] [190.5 144.5 0.5] [191 142.5 0.5] [189.5 140 0.5] [188.5 138.5 0.5] [189 136.5 0.5] [186.5 133 0.5] [186 131.5 0.5] [184 128 0.5] [184.5 126 0.5] [183.5 124 0.5] [183.5 122 0.5] [183.5 120 0.5] [183.5 117 0.5] [182 115.5 0.5] [181.5 113.5 0.5] [181.5 110.5 0.5] [180.5 109 0.5] [180.5 105.5 0.5] [180.5 104 0.5] [179 102.5 0.5] [178.5 101 0.5] [177.5 99 0.5] [177.5 97 0.5] [175.5 95 0.5] [172.5 92.5 0.5] [169.5 90 0.5] [167.5 90 0.5] [159.5 88 0.5] [157 88 0.5] [153.5 88 0.5] [149.5 88 0.5] [148.5 88 0.5] [146 88 0.5] [144 88 0.5] [142 88 0.5] [139 88 0.5] [138 88 0.5] [136 86 0.5] [135 84 0.5] [134 81 0.5] [133 75 0.5] [132.5 72 0.5] [131.5 70.5 0.5] [132 68.5 0.5] [132 66 0.5] [132 64 0.5] [132 62.5 0.5] [132 60 0.5] [132 58 0.5] [132 56.5 0.5] [132 54.5 0.5] [132 52.5 0.5] [132 50 0.5] [132 47.5 0.5] [130.5 44.5 0.5] [131 41 0.5] [131 38 0.5] [131 37 0.5] [130 34.5 0.5] [130 32 0.5] [130 29 0.5] [128.5 25.5 0.5] [129 23.5 0.5] [129 21 0.5] [128 19 0.5] [128 15.5 0.5] [128 14 0.5] [128 12.5 0.5] [128 10.5 0.5] [128 8.5 0.5] [127 6.5 0.5] [127 4.5 0.5] [127 2.5 0.5] [129 1 0.5] [132 0 0.5] [134 0 0.5] [136 0 0.5] [139.5 0 0.5] [141 0 0.5] [143 0 0.5] [145.5 0 0.5] [147.5 0 0.5] [151.5 0 0.5] [153.5 0 0.5] [155.5 0 0.5] [158 0 0.5] [160 0 0.5] [162.5 0 0.5] [165.5 0 0.5] [168 0 0.5] [170 0 0.5] [175 0 0.5] [179.5 1 0.5] [181 1.5 0.5] [183.5 1 0.5] [186 1 0.5] [188 2.5 0.5] [190 2 0.5] [192 3.5 0.5] [194 3 0.5] [196.5 3 0.5] [199 3 0.5] [201 3 0.5] [203 3 0.5] [204.5 3 0.5] [208 3 0.5] [211 3 0.5] [213 4 0.5] [216.5 4 0.5] [219 4 0.5] [221 4 0.5] [223 4 0.5] [224.5 4 0.5] [226.5 4 0.5] [228.5 4 0.5] [231 4 0.5] [232.5 4 0.5] [235 4 0.5] [237 4 0.5] [238.5 4 0.5] [240.5 4 0.5] [242.5 4 0.5] [244.5 4 0.5] [246.5 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "cfb9c030-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [382 6.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491131010
+:isComplete true}}
+:block/updated-at 1714491143073} 
+{:block/created-at 1714491146912
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 28
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [2 0 0.5] [5 0 0.5] [6.5 0 0.5] [8 0 0.5] [12 0 0.5] [13.5 0 0.5] [15.5 0 0.5] [16.5 0 0.5] [19 0 0.5] [20.5 0 0.5] [22.5 0 0.5] [24.5 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d5de5250-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [533.5 35]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491141123
+:isComplete true}}
+:block/updated-at 1714491146912} 
+{:block/created-at 1714491167671
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 29
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [2 0 0.5] [6 2.5 0.5] [9.5 4.5 0.5] [15.5 6.5 0.5] [20 8 0.5] [22.5 9 0.5] [24 8.5 0.5] [25.5 9.5 0.5] [23.5 9.5 0.5] [20 11 0.5] [18 10.5 0.5] [13.5 10.5 0.5] [12 10.5 0.5] [10.5 10.5 0.5] [8 10.5 0.5] [6.5 10.5 0.5] [5 11.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d85a27c0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [600.5 2]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491145295
+:isComplete true}}
+:block/updated-at 1714491167671} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 30
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 2 0.5] [0 5.5 0.5] [0 11 0.5] [0 13.5 0.5] [0 16.5 0.5] [0 20.5 0.5] [0 28 0.5] [0 34 0.5] [0 40 0.5] [0 47 0.5] [0 50.5 0.5] [0 54 0.5] [0 55.5 0.5] [0 55.5 0.5] [0 55.5 0.5] [0 55.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e5103ea0-0706-11ef-ab51-2f6f5350a11b"
+:noFill true
+:point [597.5 118.5]
+:parentId "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:nonce 1714491166620
+:isComplete true}}
+:block/updated-at 1714491167671})
+:pages (
+{:block/uuid #uuid "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:name "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("9f94c4e0-0706-11ef-ab51-2f6f5350a11b" "a0448ce0-0706-11ef-ab51-2f6f5350a11b" "a1f486d0-0706-11ef-ab51-2f6f5350a11b" "a4509f40-0706-11ef-ab51-2f6f5350a11b" "a5079330-0706-11ef-ab51-2f6f5350a11b" "a8a68be0-0706-11ef-ab51-2f6f5350a11b" "a9b11e10-0706-11ef-ab51-2f6f5350a11b" "abfc6da0-0706-11ef-ab51-2f6f5350a11b" "b033aeb0-0706-11ef-ab51-2f6f5350a11b" "b1d1ce50-0706-11ef-ab51-2f6f5350a11b" "b53bad40-0706-11ef-ab51-2f6f5350a11b" "b6ed2dd0-0706-11ef-ab51-2f6f5350a11b" "b9811f20-0706-11ef-ab51-2f6f5350a11b" "ba4d21b0-0706-11ef-ab51-2f6f5350a11b" "baf60be0-0706-11ef-ab51-2f6f5350a11b" "bb6632d0-0706-11ef-ab51-2f6f5350a11b" "bcb52100-0706-11ef-ab51-2f6f5350a11b" "bd65ac50-0706-11ef-ab51-2f6f5350a11b" "c2f7e980-0706-11ef-ab51-2f6f5350a11b" "c3757df0-0706-11ef-ab51-2f6f5350a11b" "c6172ae0-0706-11ef-ab51-2f6f5350a11b" "c7ba7aa0-0706-11ef-ab51-2f6f5350a11b" "c9294ce0-0706-11ef-ab51-2f6f5350a11b" "ca478e20-0706-11ef-ab51-2f6f5350a11b" "cafd2280-0706-11ef-ab51-2f6f5350a11b" "cb912520-0706-11ef-ab51-2f6f5350a11b" "ce98e6e0-0706-11ef-ab51-2f6f5350a11b" "cfb9c030-0706-11ef-ab51-2f6f5350a11b" "d5de5250-0706-11ef-ab51-2f6f5350a11b" "d85a27c0-0706-11ef-ab51-2f6f5350a11b" "e5103ea0-0706-11ef-ab51-2f6f5350a11b")}}
+:block/updated-at 1714491167671
+:block/created-at 1714490741271
+:block/type "whiteboard"
+:block/name "66310d75-1237-466b-8ef4-7de784eb4bdc"
+:block/original-name "66310d75-1237-466b-8ef4-7de784eb4bdc"})}

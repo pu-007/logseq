@@ -1,0 +1,2 @@
+- I offer you the broken mirror's smile
+- I offer you the rebuilt teacup's sadness

@@ -1,0 +1,8 @@
+- #study #技术
+- categories
+	- [[TODO]]
+	- {{query [[TOCK]]}}
+	- {{query [[TOCR]]}}
+	- [[TORV]]
+	- [[TOAK]]
+	- [[DONE]]

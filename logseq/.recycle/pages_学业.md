@@ -1,0 +1,12 @@
+- [[语文]]
+	- #语文
+- [[math]]
+	- #math
+- [[english]]
+	- #english
+- [[physical]]
+	- #physical
+- [[chemical]]
+	- #chemical
+- [[biology]]
+	- #biology

@@ -1,0 +1,52 @@
+@import "https://codemirror.net/5/theme/gruvbox-dark.css";
+/* /* Show Simple Query builder only at mouse hover */ */
+/* .cp__query-builder > div > div.clauses-group { */
+/*   height: 0; */
+/*   overflow: hidden; */
+/*   margin-bottom: 0; */
+/* } */
+/**/
+/* .cp__query-builder > div > div.clauses-group:hover { */
+/*   opacity: 1; */
+/*   overflow: visible; /* show entire dropdown filter selector */ */
+/*   height: auto; */
+/* } */
+/**/
+/* .ls-block .custom-query > .th { */
+/*   margin-bottom: auto; */
+/*   height: auto; */
+/* } */
+/**/
+/* .custom-query > .th:hover + .cp__query-builder > div > div.clauses-group { */
+/*   height: auto; */
+/* } */
+/**/
+/* .cp__query-builder-filter { */
+/*   display: block; */
+/*   transition: */
+/*     opacity 0.3s, */
+/*     margin-top 0.3s; /* Add transitions for smooth effect */ */
+/* } */
+/**/
+/* /* Compacts live query header */ */
+/* .custom-query > div:first-child { */
+/*   border-radius: 0px; */
+/*   padding: 2px 2px; */
+/* } */
+/**/
+/* /* Shift Live Query container to the right a few pixels to prevent partly covered bullet */ */
+/* .custom-query { */
+/*   margin-left: 10px; */
+/*   border-radius: 10px; /* just for improving appearance */ */
+/* } */
+/**/
+/* /* Increase the font for the Live Query Title Text */ */
+/* .ls-block .ml-1 { */
+/*   font-size: 1.5em; */
+/*   font-weight: bold; */
+/* } */
+/**/
+/* /* Workaround, to prevent the Live Query Title line shown a second time as a block below the query */ */
+/* div.block-properties.rounded:has(div [data-ref*="query-title"]) { */
+/*   display: none; */
+/* } */

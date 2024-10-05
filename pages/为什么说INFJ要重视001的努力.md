@@ -1,0 +1,426 @@
+![cover_image](http://mmbiz.qpic.cn/sz_mmbiz_jpg/DZCdtia4bJxpQNK1NDmibsZWyd2dWE2maiahX0o7EV6QHzZV7klTWWtNkS4ib6jhVtEbAqar6jbbO2OxFUjRibGwCUA/0?wx_fmt=jpeg)
+
+- # 为什么说INFJ要重视0.01的努力
+  
+  原创 [[INFJ清醒岛]]
+  
+  功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
+  
+  ---
+  
+  ---
+  
+  ✦
+  
+  感谢喜欢
+  
+  ✦
+  
+  **一、**
+  
+  Infj常常因为Ni一眼望到底而畏难，索性就一点也不行动了，就像一个华美的宫殿蓝图，一看就知道建造要耗费多少工夫，干脆不开始。
+  
+  而S人能够踏踏实实的努力，正因为他们看不到全貌，只能看到细节，找一根木头，搭一块石头，埋一筐土，他们不知道能够建造成什么样子，只能看到力所能及的细枝末节，反而行动力强。
+  
+  **二、**
+  
+  ![](https://mmbiz.qpic.cn/sz_mmbiz_png/DZCdtia4bJxpQNK1NDmibsZWyd2dWE2maialEdtxAxmt5IArp6O3ibXOOTQpKaibqkzMwklAXZRJw3ia4p5FhPfjYtkw/640?wx_fmt=png)
+  
+  这个图很好的表现了Se与Ni结合的效果。
+  
+  Se就是当下积累的0.01，Ni就是长远眼光的365。
+  
+  infj往往会忽视0.01的巨大作用，总是幻想自己可以一步到位的成功。
+  
+  infj不怎么相信一分耕耘一分收获，他经常的体验是不付出耕耘获得三分或者五分收获。
+  
+  所以有时仅仅是看到计划周期很长，也忍受不了漫长的、看不到结果的等待，选择放弃全部。
+  
+  其实我们知道，质变是由量的积累产生的。
+  
+  读一本书时人还很无知，但是一本两本，逐渐读着，不知道什么时候就变得很渊博了。
+  
+  堆上一粒谷子不是谷堆，堆上100粒谷子不是谷堆，堆着堆着，突然就成一个谷堆了。
+  
+  重要的，一个是0.01的积累，一个是365天的不偏离方向，这是成功的关键。
+  
+  infj不缺365的视角，缺的是对0.01的肯定。
+  
+  每天恶化的一点点会积累巨大的恶果。
+  
+  每天进步一点点会使人生的轨迹不断向上。
+  
+  现在做的每一件事都是在为未来投票。
+  
+  现在每多看一页书，未来你就会成为一个知识渊博的人。
+  
+  现在的蝴蝶扇动了一次小小的翅膀，积累几年之后，你的人生就会发生一场非常大的热带风暴。
+  
+  **三、**
+  
+  其实infj是能够看到这一点的，infj能够通过当下预测未来，Se和Ni本质是一体的。
+  
+  坏的习惯会在十几年后出现苦果，例如抽烟导致肺癌。
+  
+  好的习惯会在十几年后出现奖励，例如读书导致渊博。
+  
+  所以infj会因为当下的坏习惯而焦虑，他的预测能力能够看到蝴蝶煽动翅膀可以引起的巨大风暴。
+  
+  但是SeSi的低发展又让他蔑视0.01，告诉自己一点点细节无伤大雅，对今天的放弃不算什么，我能看到的长远的结果才是更重要的。
+  
+  但是忽视0.01的365本来就是无源之水和空中楼阁，没有0.01的365天毫无意义。
+  
+  **四、**
+  
+  INFJ非常容易少年早慧，然后泯然众人，就是因为他太过迷信顿悟、聪慧的作用，而忽视平凡人的努力。
+  
+  就像龟兔赛跑的故事一样，Si人虽然是乌龟，但他持之以恒的努力，积累了许多的0.01，前期什么也看不出来，但是形成复利曲线效应后会突然起飞。
+  
+  如果我们去看名校和事业成功的人，会发现最多的还是Si型人。
+  
+  有时候infj还没做这件事，知道它该怎么做，就不想做了，或者仅仅尝试了一天，就失去新鲜感，不想再体验了。
+  
+  但是Si却可以不厌其烦的一遍一遍做同样的事，每天做重复而循环的事，通过一遍遍的体验琐碎的细节，以便于彻底而完全的拥有这种经验的全貌。
+  
+  这就是一种工匠精神。
+  
+  这是刻意练习出的天才，是普通人也能做到的完美主义。
+  
+  只有顿悟和聪慧很难走到最后，认真和坚持是更加难得的优势。
+  
+  Infj应该放弃做神，只求做一个努力的普通人。
+  
+  **五、**
+  
+  Infj要学会“积小胜”，肯定微小的进步是走向成功的最简单的方法。
+  
+  重视一点一滴的积累，肯定自己的任何一个小小的行动。
+  
+  人们常说：有志者立长志，无志者常立志。
+  
+  其实 “常立志”也不怕。
+  
+  不用担心三天打鱼两天晒网。
+  
+  上次坚持两天就放弃了，这次坚持了三天才放弃，就是进步。
+  
+  就算进步三天，后退两天，那总的来说还是进步了一天嘛。
+  
+  只要总的来说还有微小的进步，那也是进步。
+  
+  下次你就有信心坚持四天了。
+  
+  念念不忘必有回响。
+  
+  所以计划并没有毁于一旦，即使计划并没有完美的执行，你只执行了预期的一点点也是成功。
+  
+  反而你因为完美主义彻底放弃了计划才是真的毁于一旦。
+  
+  **六、不等结果，提前庆祝**
+  
+  所以给infj的长期坚持建议是“不等结果，提前庆祝”。
+  
+  量变到质变是很突然的过程，复利曲线越到后期发展越快，爆炸上升。
+  
+  可能人抽烟几十年都没事，然后短短几个月就肺癌从初期恶化到晚期了。
+  
+  吃饭的时候，人吃3个饼都没感觉，第四个饼的最后一口突然就饱了。
+  
+  量变的积累时间太长，前期什么都感觉不到，结果太突然，你再根据结果调整方向就后悔莫及。
+  
+  所以人常常行百里者半九十，因为不知道自己已经坚持很久，走到九十了，还以为离成功很远，所以放弃了。
+  
+  而真正成功的人也往往是成功之后才后知后觉，原来自己已经抵达了终点。
+  
+  所以建议“不等结果”，不要纠结结果什么时候来，离自己多远。
+  
+  量变会引发质变，但不必追求那个界限，就一点点的向着光靠近就好，不要强求结果，不要急，然后某一天就会发现自己已经迈过了那个坎。
+  
+  而且，只看结果会让人焦虑，你会觉得自己做不到这么难的事。
+  
+  举个例子。
+  
+  我们每人每天都要呼吸2万次，如果让我记住每天要坚持2万次呼吸，然后划分好时间去执行，面对这个看起来就很艰巨的任务，一想想都觉得焦虑，到底怎么可能做到呢。干脆别活了。
+  
+  但是我们活下来了，而且呼吸这么多次，也不会觉得很困难不是吗？
+  
+  因为每次只呼吸一次，每次都是游刃有余不觉得勉强，而且形成了习惯后，不知不觉的在一次次做，其实也挺容易做到的不是吗。
+  
+  只要我们不去想它有多难，营造坚持有多么困难，渲染什么煽情和吃苦的成分。
+  
+  只是一次一次的做，就做得到。
+  
+  所有很难的结果，如果一步一步做，也并不难，
+  
+  付出很小的努力，就能获得很大的收获。
+  
+  只需要平平淡淡的坚持。
+  
+  流水不争先，争的是滔滔不绝。
+  
+  你不需要快速改变，只需要一点点的在自己未察觉的情况下发生改变。
+  
+  **七、不等结果，提前庆祝**
+  
+  “提前庆祝”是因为infj的Ni能够看到远期的结果，可以把它提前成今天的反馈，让自己今天就看到反馈。
+  
+  Si第八位的infj很难直接发展出Si这种功能，infj一想到重复而循环的每一天就会抓狂，所以不妨通过发展Se来间接发展Si。
+  
+  告诉自己，我不需要去想明天，只需要感受现在，通过对当下的鲜活感受，引导自己做长期的坚持，不看明天，只做好今天，只收获今天的快乐。
+  
+  比如你在跳绳减肥，每跳完一天，你就可以赞美自己已经取得了成功。
+  
+  因为你走在正确的方向上。
+  
+  例如房间很乱，我们在收拾的过程中，不要只盯着结果焦虑。
+  
+  而是将每一个小行动的成功都视为巨大的胜利。
+  
+  房间很乱，只要一件一件的归位，只要你在行动，不论你的行动多么微小，但是房间迟早会收拾干净，对吗。
+  
+  不必因结果而焦虑，因为你知道你走在正确的路上，结果迟早会来，你一点也不担忧。
+  
+  如果跳绳减肥，也不必盯着“减掉20斤”或者“坚持运动100天”的结果。
+  
+  你完全可以靠自然结果的到来来提醒自己的成功。
+  
+  不设定目标也可以，因为瘦到20天的时候你会自然而然的发现瘦了，运动了100天你也会恍然发现自己坚持了这么久。
+  
+  而不是因为体重遥遥无期的变化心灰意冷，选择放弃。
+  
+  如果你总是因结果而焦虑，那么就不要去为自己设定结果。
+  
+  而是仅仅是坚持了一天，也给自己一个巨大的庆祝，告诉自己这又是一次完美的行动，提前品尝胜利的果实。
+  
+  因为你走在正确的方向上。
+  
+  你的蝴蝶已经扇动了翅膀，热带风暴的来临是必然的，你当然可以提前庆祝。
+  
+  **八、**
+  
+  所以一件事，如果你想做，且有能力又有时间去做，那就是可行的。
+  
+  不需要在那里纠结它有多难，而是直接做决定。
+  
+  因为你得从现在开始行动，积蓄力量，可能要几年才有结果。
+  
+  最令人感觉良好的就是每天进步的感觉。
+  
+  不要贪心，每天只努力0.01，不要让自己累到。
+  
+  耗在那里拉扯、犹豫不决，得过且过、迟迟不做决定才更累。
+  
+  比每天的0.01的付出还累。
+  
+  如果不知道可不可行，可以先去尝试一下，看能不能做到0.01的付出，试一下0.01又不会损失什么。
+  
+  如果你努力了很久，即使最终不成功也没所谓呀，因为你已经品尝了那么多小小的0.01的胜利果实，也很甜呀。
+  
+  人生是不可能完全完美的，但是我们可以小小小步往前挪，这辈子这么长时间，只要往前挪了，不管多小，这辈子就算成功了。
+  
+  不管别人的目光，你唯一要做的是创造自己的、跟任何人都不一样的独一无二的人生。
+  
+  ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
+  
+  END
+  
+  预览时标签不可点
+  
+    
+  
+  
+  轻触阅读原文
+  
+  ![](http://mmbiz.qpic.cn/mmbiz_png/DZCdtia4bJxpcRrqEcIicNn7icChObS1Eqm6u2hlN1LGAHvlMHZg6O2a3A47KdeC6IqvVTuryNZQpDFQ1LX3JvT9w/0?wx_fmt=png)
+  
+  infj清醒岛
+  
+  ---
+  
+  ---
+  
+  精选留言
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  Manna -来自安徽
+  
+  “INFJ非常容易少年早慧，然后泯然众人，就是因为他太过迷信顿悟、聪慧的作用，而忽视平凡人的努力。”
+  非常真实，等这些方仲永们突然因为世俗生活的痛击而醒悟的时候，发现已经离得太远，甚至重回正轨都要比普通人付出更大的代价。
+  喜欢用infj标榜自己的“独特”的年轻人或许还不知道，很多所谓的infj
+  最后都是成长成了一个世俗意义的失败者。人数之所以稀少，就是因为早慧带来的懒惰和高傲，实际上对于整个人生来说并没有什么太大好处。 ·
+  在这我送上《山月记》的话和大家共勉：“我深知自己并非美玉，故不敢加以刻苦琢磨，却又半信自己是块美玉，故又不肯庸庸碌碌，与瓦砾为伍。”
+  希望我们永远都不要和李征一样。
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  未命名用户来自湖北
+  
+  我好像已经预料到自己会成为世俗意义的失败者。一方面觉得这个世界的许多规则很愚蠢，一方面不知道如何反抗并因为力量弱小而渐趋迎合，必然导致我的彻底失败。道理都懂但是仍然过不好这一生说的就是infj吧哈哈哈哈。
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  宛辰:来自
+  
+  infj不怎么相信一分耕耘一分收获，他经常的体验是不付出耕耘获得三分或者五分收获。救命啊！！！这不就是靠吃老本和小聪明和透支身体在ddl前两天挑战极限从零开始写论文最后拿个及格分的我吗[苦涩][苦涩][苦涩]
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  ㅤhindsight来自新疆
+  
+  我之前觉得自己，重视了思想上的发展，却忽视了能力的培养
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  未命名用户来自广东
+  
+  说得太好了，我真的会把拓展思想的“深度”误当作自己能力的提升
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  ᅠᅠ来自河北
+  
+  感谢宝藏岛，补充我个人作为infj告别焦虑重新塑造的关键就是及时给自己正反馈，就像平时健身的每周一次放纵餐而且不强迫自己去做那些所谓自律的事情，健身早睡控制饮食学习工作都是根据自己的身体习惯对自己进行观察记录调整的结果（对自己有很强的控制感每次出现萎靡不振都能微调）不靠坚持做事情只靠习惯，非常在乎本体的感受，可能算是迈出了爱自己的第一步
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  阿山来自广东
+  
+  “所以infj会因为当下的坏习惯而焦虑，他的预测能力能够看到蝴蝶煽动翅膀可以引起的巨大风暴。”（是的！！）
+  今天从「空坐空想」的自我消耗走出来投入实践了（没想到小岛这么巧更新了这个主题的文章）我的Ni让我看见“路漫漫其修远兮”，但我决心“上下求索”决心“积跬步、积小流”（绿老头们加油！）
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  Epiphany来自安徽
+  
+  “没有0.01的365天毫无意义。”对于infj重度拖延症患者来说，岛真的是智者。
+  
+  ![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4icoibBPppWkMrbLG1lB8KhWHaiaiabBib87BTTdVQC8Cyacg/64)
+  
+  infj清醒岛来自
+  
+  1的365次方还是1，毫无意义。
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  Drink.来自湖北
+  
+  宝能不能创个粉丝群呀[流泪]
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  禾禾来自广东
+  
+  Infj很像那个很聪明的、理解游泳理论却觉得下水扑腾练习很愚蠢的小孩，站在岸上看他们练，心里想着游泳其实很简单，但是很缺乏下水练习的动力和勇气，永远也学不会游泳
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  レプリカント来自广东
+  
+  只要是从现在开始就是赢[得意] 把ni投注于今天 用行动将一天拉长 然后得到正反馈 这样的infj真的很酷
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  Abraxas来自云南
+  
+  清楚人的向死而生的命运，所以容易陷入一种特别清醒的虚无，幸福阈值也越来越高，导致日常的生活已经没法满足我们追求所谓的意义了。殊不知一些简单的快乐也可以很有意义。
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  乐观开朗兔师傅（嗑盐小白版）来自北京
+  
+  谢谢岛！我对于我的完美主义又有调整方向了[太阳]
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  平静如水来自天津
+  
+  岛岛说到我心里去了[快哭了]我就是三天打鱼两天晒网，而且还总是觉得自己小小的坏习惯没关系，明明知道怎么样能成功但是总不想去做，而且还拖延[抓狂][抓狂][抓狂]
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  lemon tree来自辽宁
+  
+  岛啊，infj到底适合干什么职业啊
+  
+  ![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4icoibBPppWkMrbLG1lB8KhWHaiaiabBib87BTTdVQC8Cyacg/64)
+  
+  infj清醒岛来自
+  
+  做你喜欢的
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  肆邈\_来自湖南
+  
+  真的是这样 从小到大的考试都有种轻松高分的感觉，但是一到大型考试如中高考就会因为平常的不够努力而得不到好成绩[合十]
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  ｡ì \_ í｡为来自湖南
+  
+  岛君，很想听你分析一下最近大火的吴谢宇弑母案。 我觉得他的心路历程很让人震撼，洁癖母亲缺位父亲，
+  他精神紧绷超级学霸完美主义空心病，这些偏执特质跟infj是不是有些接近？ 这是三联周刊的一篇报道，目前全网看到他家最全面的情况，整个家族信息都写进去了
+  https://mp.weixin.qq.com/s/g8clv7n92SlQ132hDt6DiA 有兴趣的话，好想听听你的看法呀
+  
+  ![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4icoibBPppWkMrbLG1lB8KhWHaiaiabBib87BTTdVQC8Cyacg/64)
+  
+  infj清醒岛来自
+  
+  根据资料判断，他家族出身都很贫穷甚至是有疾病和缺陷，谢天琴的性格非常要强，但是要强的背后是自卑，不向他人求助，不社交，不信任外界。她唯一信任的就是她亲生的儿子，所以把所有的情感倾注在儿子身上。和吴谢宇形成一个依赖共生的关系，吴谢宇在这样的状况下，自我很小，很软弱。
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  李幼棠来自北京
+  
+  写得太好啦吧！！！这就是本人！！！
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  pu来自陕西
+  
+  在中考前看到，没时间写长评，但真的非常受用，当过年级第二，却落到第四十几，真是吃了这亏，一步步来，不要以任何理由放弃，先去做，从代办的第一件事做起
+  励行笃志，慎终如始
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  Abraxas来自云南
+  
+  上条留言忘记表白了！谢谢岛岛的文字！好爱你/:<L>/:<L>/:<L>
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  雨水看客来自上海
+  
+  三分钟热度就有三分钟收获。
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  ㅤ来自江苏
+  
+  感觉岛就是我肚子里的蛔虫！！最近月考完复盘，脑子里也都是这篇文章的要点！再次被提醒到了。刚刚还在内耗！just do it！better than
+  nothing！！[加油]
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  陆离来自广西
+  
+  岛岛写的好好[流泪]是怎么做到持续性的思考和写作的[流泪]
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  诺米团🍉来自上海
+  
+  这和道家的“无为而治”很像，该做事的时候就做，这样感觉会更洒脱和实在。[太阳]
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  Cu来自广东
+  
+  喜欢！
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  Ҩ来自安徽
+  
+  岛岛的每篇都写到我心窝里 醍醐灌顶 [流泪]

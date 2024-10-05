@@ -1,0 +1,3 @@
+- written before the new journey
+- inspired by Runaway sung by D.T. and the saying from Freud
+- about the present, the future, the lifelong planning, the dream, the job, the real world, and the love

@@ -1,0 +1,112 @@
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/DZCdtia4bJxqZWe8ic9lbN5Xic94AibUC7LD6e0RH0c1bH4YQV27kZrSb8ia5W0BtKxSY4RsCIndpOg9LnfYQibialFcA/0?wx_fmt=jpeg)
+
+- # 迷梦 |需要放下对Ni的执着
+  
+  原创 [[INFJ清醒岛]]
+  
+  功能介绍 找寻自己是一条自由之路。即使每个人都生活在自己的孤岛上，我们依然可以以光遥遥呼应。（每周一晚8点更新）
+  
+  ---
+  
+  ---
+  
+  ✦
+  
+  感谢喜欢
+  
+  ✦
+  
+  Ni是infj最引以为傲的功能。
+  
+  Ni+Fe可以迅速看透一个人。Ni+Ti可以把事情部署得妥帖完美。仅就Ni本身而言，它可以让infj冥冥之中窥探未来的走向，轻而易举的洞彻深奥的哲学碎片，感觉自己强大完美，由于这种强大是向内的，infj缺乏表达的意愿，又使他们变成谜一样的存在。
+  
+  但是Ni带来的痛苦也是不可逃避的。Ni探向未来的触角无法停止，每时每刻都在否认当下、否认自己。完美主义的理想国从来不存在于现世，但是infj本人却不得不生存在现世。这种焦虑、自我苛责、对当下的逃避无时无刻都在折磨着infj。
+  
+  Infj对这个世界是有益的，他们跳脱出日常生活，用一种信仰的方式，指明前进的方向。以一种先知的存在，推动人类追求内在幸福。
+  
+  但infj对外在的推动，是以自我生命为出发点的。如果说这个世界上总要有人承担起一切的罪责，那么infj就是那个背起十字架的人，他们总是散发出治愈力给别人，最后连自己也找不到了。
+  
+  最后，内在的割裂性会导致人格的解离和痛苦，越是前三维发展标准的infj就越不健康、越不接地气——Ni是完美的神、Fe是无私奉献的圣母、Ti是只会计算拆解的运算程序。没有一个像人的维度——Ne对世界的好奇、Fi的自我、Te的竞争、Se的活在当下。
+  
+  (Si也不是人，Si是收集大数据然后调拨使用的AI机器人)
+  
+  Ni总是无意识的去在海量信息中捕获自己想要的重点，且Ni是幻境，没有时间感。Infj执着于真实，却耗费大量生命沉浸在虚幻中。
+  
+  如果吃饭的时候在Ni中沉浸、躺在床上也在Ni中沉浸，那就说明Ni发展得太过度了。Ni完全遮蔽了Se体验现实的通道。
+  
+  我们获得外界第一手客观资料的途径有二：一是N，一是S。另外两个维度，F和T都是对一手资料的判断和主观再加工。
+  
+  infj要寻找自我，最难破除的是对完美无缺的圣人面具Ni的执着，戴着面具就很难活在轻松之中，羡慕普通人，又高高在上。永远也做不了普通人。
+  
+  不放开Ni，根本不可能入世。
+  
+  Infj需要直面内心的黑暗，变成人，就需要放下对Ni的执着。
+  
+  ![](https://mmbiz.qpic.cn/mmbiz_gif/7FiadXCUBpqt43ySAFleQonQAWQDMwvCPOiaiaFlUYSG8ibicVqc4d5rBa4niaAWr9DmauJ43FCich2gaNDU6PiaKZQf6w/640?wx_fmt=gif)
+  
+  END
+  
+  预览时标签不可点
+  
+    
+  
+  
+  轻触阅读原文
+  
+  ![](http://mmbiz.qpic.cn/mmbiz_png/DZCdtia4bJxpcRrqEcIicNn7icChObS1Eqm6u2hlN1LGAHvlMHZg6O2a3A47KdeC6IqvVTuryNZQpDFQ1LX3JvT9w/0?wx_fmt=png)
+  
+  infj清醒岛
+  
+  ---
+  
+  ---
+  
+  精选留言
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  无住生心来自江苏
+  
+  物极必反，过犹不及。中国人讲求中庸，这真是极大的智慧。
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  飘飘来自甘肃
+  
+  我现在整个人就是太过沉溺于Ni,尤其状态不好的时候。还挺开心，自得其乐。
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  Choi来自
+  
+  请问冥想对于发展Se是否有帮助
+  
+  ![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4icoibBPppWkMrbLG1lB8KhWHaiaiabBib87BTTdVQC8Cyacg/64)
+  
+  infj清醒岛来自
+  
+  有帮助
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  losvhq来自天津
+  
+  想入世又不入世
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  music来自贵州
+  
+  我现在处于想入世又觉得入世𣎴好又不想入世[苦涩]
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  诺米团🍉来自上海
+  
+  我想让所有人都能都有避雨的屋子，但是，抱歉，我做不到。
+  
+  ![](http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0)
+  
+  溪桥来自山东
+  
+  Ni可不可以理解成幻想一个理想国，沉浸在自己构建的精神世界中啊？
